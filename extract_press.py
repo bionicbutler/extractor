@@ -74,6 +74,17 @@ OUTPUT_DIR = Path("./extractions")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
+def create_run_output_dir() -> Path:
+    """Create a unique output directory for each extraction run."""
+    run_id = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+    run_dir = OUTPUT_DIR / run_id
+    run_dir.mkdir(parents=True, exist_ok=True)
+    return run_dir
+
+
+RUN_OUTPUT_DIR = OUTPUT_DIR
+
+
 # ---------------------------------------------------------------------------
 # API Key Loading
 # ---------------------------------------------------------------------------
@@ -351,7 +362,7 @@ async def extract_batch(
         except json.JSONDecodeError as e:
             print(f"  ✗ Batch {batch_num}: Failed to parse JSON response")
             print(f"    Error: {e}")
-            debug_path = OUTPUT_DIR / f"debug_press_batch_{batch_num}.txt"
+            debug_path = RUN_OUTPUT_DIR / f"debug_press_batch_{batch_num}.txt"
             debug_path.write_text(raw_text, encoding="utf-8")
             print(f"    Raw response saved to {debug_path}")
             return None
@@ -444,6 +455,9 @@ def validate_extraction(releases: list[dict]) -> list[str]:
 # Main
 # ---------------------------------------------------------------------------
 def main():
+    global RUN_OUTPUT_DIR
+    RUN_OUTPUT_DIR = create_run_output_dir()
+
     parser = argparse.ArgumentParser(
         description="Extract structured data from press releases using Claude API"
     )
@@ -538,7 +552,7 @@ def main():
     extraction["press_releases"].sort(key=sort_key)
 
     output_name = "press_releases_extraction.json"
-    output_path = OUTPUT_DIR / output_name
+    output_path = RUN_OUTPUT_DIR / output_name
     output_path.write_text(
         json.dumps(extraction, indent=2, ensure_ascii=False),
         encoding="utf-8",

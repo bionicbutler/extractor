@@ -61,6 +61,17 @@ OUTPUT_DIR = Path("./extractions")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
+def create_run_output_dir() -> Path:
+    """Create a unique output directory for each extraction run."""
+    run_id = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+    run_dir = OUTPUT_DIR / run_id
+    run_dir.mkdir(parents=True, exist_ok=True)
+    return run_dir
+
+
+RUN_OUTPUT_DIR = OUTPUT_DIR
+
+
 # ---------------------------------------------------------------------------
 # API Key Loading
 # ---------------------------------------------------------------------------
@@ -955,7 +966,7 @@ async def extract_section(
         except json.JSONDecodeError as e:
             print(f"  ✗ {section_name}: Failed to parse JSON response")
             print(f"    Error: {e}")
-            debug_path = OUTPUT_DIR / f"debug_{section_name}.txt"
+            debug_path = RUN_OUTPUT_DIR / f"debug_{section_name}.txt"
             debug_path.write_text(raw_text, encoding="utf-8")
             print(f"    Raw response saved to {debug_path}")
             return section_name, None
@@ -1194,7 +1205,7 @@ def process_single_file(filepath: Path, api_key: str) -> Path | None:
 
     # Step 6: Save
     output_name = filepath.stem + "_extraction.json"
-    output_path = OUTPUT_DIR / output_name
+    output_path = RUN_OUTPUT_DIR / output_name
     output_path.write_text(
         json.dumps(extraction, indent=2, ensure_ascii=False),
         encoding="utf-8",
@@ -1216,6 +1227,9 @@ def process_single_file(filepath: Path, api_key: str) -> Path | None:
 
 
 def main():
+    global RUN_OUTPUT_DIR
+    RUN_OUTPUT_DIR = create_run_output_dir()
+
     parser = argparse.ArgumentParser(
         description="Extract structured data from 10-K filings using Claude API (v2)"
     )
@@ -1258,7 +1272,7 @@ def main():
     print(f"  Succeeded: {succeeded}")
     if failed > 0:
         print(f"  Failed:    {failed}")
-    print(f"  Output:    {OUTPUT_DIR.resolve()}")
+    print(f"  Output:    {RUN_OUTPUT_DIR.resolve()}")
     for name, path in results:
         status = f"✓ {path.name}" if path else "✗ FAILED"
         print(f"    {name} → {status}")
