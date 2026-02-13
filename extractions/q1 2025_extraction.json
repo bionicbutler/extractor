@@ -1,0 +1,1409 @@
+{
+  "metadata": {
+    "call_type": "First Quarter 2025 Earnings",
+    "call_date": "NOT_PROVIDED",
+    "period": "First Quarter 2025",
+    "company_name": "NOT_PROVIDED",
+    "source_file": "q1 2025.txt",
+    "filing_type": "earnings_transcript",
+    "extraction_timestamp": "2026-02-12T10:44:23.150296",
+    "extraction_mode": "split_sections",
+    "sections_extracted": [
+      "prepared_remarks",
+      "qanda"
+    ],
+    "citation_tier": {
+      "tier": 2,
+      "tier_label": "Tier 2",
+      "confirmed_fields": [
+        "call_type",
+        "speaker_names",
+        "speaker_roles",
+        "section_identification"
+      ],
+      "missing_fields": [
+        "call_date"
+      ],
+      "confirmed_count": 4,
+      "admissible": true,
+      "note": ""
+    },
+    "validation_warnings": [
+      "Call date not identified — transcript will be classified as Tier 3 (excluded from evidence)",
+      "Tier 2 transcript — missing fields: call_date",
+      "Inconsistency: 14 questioners reported but 15 exchanges extracted",
+      "Directness classification gap: 24 responses but 36 classified"
+    ]
+  },
+  "prepared_remarks": {
+    "source": "Prepared Remarks",
+    "speakers": [
+      {
+        "full_name": "Operator",
+        "role": "NOT_PROVIDED",
+        "is_company_executive": false,
+        "is_operator_or_moderator": true
+      },
+      {
+        "full_name": "Stacey Brodbar",
+        "role": "Head of Investor Relations",
+        "is_company_executive": true,
+        "is_operator_or_moderator": false
+      },
+      {
+        "full_name": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "is_company_executive": true,
+        "is_operator_or_moderator": false
+      },
+      {
+        "full_name": "Elizabeth Mann",
+        "role": "Chief Financial Officer",
+        "is_company_executive": true,
+        "is_operator_or_moderator": false
+      }
+    ],
+    "key_themes": [
+      {
+        "theme": "Strong Q1 performance with double-digit subscription growth",
+        "supporting_quotes": [
+          {
+            "quote": "I'm very pleased to share that 2025 is off to a positive start at Verisk, as we delivered solid first quarter results, underscored by double-digit subscription growth, strong overall topline growth, healthy margin expansion and profit growth.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "Organic constant currency revenue growth of 7.9% was driven by 10.6% subscription growth which was broad-based across most of our business units.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Margin expansion through cost discipline",
+        "supporting_quotes": [
+          {
+            "quote": "Our focus on cost discipline delivered 130 basis points of margin expansion, resulting in OCC adjusted EBITDA growth of 9.5%.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "This level of margin expansion reflects the positive impact of sales leverage, the timing of certain expenses and our ongoing cost discipline, including the benefits from our global talent optimization efforts.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer"
+          }
+        ],
+        "category": "margin_outlook"
+      },
+      {
+        "theme": "Insurance industry return to profitability",
+        "supporting_quotes": [
+          {
+            "quote": "In fact, according to data collected by Verisk and the American Property Casualty Insurance Association, the insurance industry returned to profitability in 2024, recording an underwriting gain of $25 billion marking the first game recorded in 4 years.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "competitive_dynamics"
+      },
+      {
+        "theme": "Catastrophic events and industry challenges",
+        "supporting_quotes": [
+          {
+            "quote": "Speaking of severe weather, last year marked the second worst year for catastrophic losses since 1950 with the vast majority of damages stemming from hurricane and severe convective storms, including the back-to-back hurricanes of Helene and Milton and that trend has continued in 2025 as the year started with the devastating wildfires in Los Angeles which have had a profound impact on individuals, businesses, communities and our insurance industry clients and which Verisk estimated would result in $28 billion to $35 billion in insurance losses for the industry.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "risk_acknowledgment"
+      },
+      {
+        "theme": "Go-to-market strategy improvements",
+        "supporting_quotes": [
+          {
+            "quote": "The changes to our go-to-market strategy that we implemented in 2024 have enabled us to get ever closer to our clients, delivering better service, improved customer satisfaction and strong sales results for Verisk. We are now taking the learnings from 2024 and applying this improved sales model to a broader group of our business units in 2025, including our new growth vectors.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Core Lines Reimagine platform providing faster insights",
+        "supporting_quotes": [
+          {
+            "quote": "And through our Core Lines Reimagine project, we are converting data into insights with greater speed and frequency, helping our clients navigate these dynamic market pressures. In particular, the Actuarial Hub within our Core Lines platform provides insights into loss cost trends 12 months earlier than usual to help clients address the evolving pricing needs of the market.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "product_development"
+      },
+      {
+        "theme": "Enhanced data granularity and property analytics",
+        "supporting_quotes": [
+          {
+            "quote": "We are also delivering more granular insights throughout our underwriting data and analytic solutions, as we are incorporating a broader range of data sources, including aerial-derived analytics, permit data, property records, real estate and claims data to enhance our property databases and offer a more comprehensive risk profile of buildings and building condition.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "product_development"
+      },
+      {
+        "theme": "Reconstruction cost data timeliness and frequency",
+        "supporting_quotes": [
+          {
+            "quote": "And finally, our reconstruction cost data is updated monthly to provide granular material and labor cost information and analysis to help our clients estimate costs and align insurance to value. Our comprehensive database includes over 23,000 line item activities, assembled from over 14,000 material, equipment and labor components. Our team of researchers and analysts survey and report pricing for these line items and components at market level for over 470 geographies in North America. In periods of rapid economic change, we often complete bimonthly updates to our research to ensure we are providing the most up-to-date market information.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "product_development"
+      },
+      {
+        "theme": "Enterprise Exposure Manager cross-platform integration",
+        "supporting_quotes": [
+          {
+            "quote": "One such example is our Enterprise Exposure Manager, a cloud-native solution that combines the unique capabilities from our Specialty Business Solutions and Extreme Events businesses. Enterprise Exposure Manager is a scalable solution that enables users to evaluate enterprise-wide risk across billions of locations with performance and stability, providing an improved understanding of global exposures and insights into portfolio-wide risk accumulations to enable better-informed business decisions.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "product_development"
+      },
+      {
+        "theme": "Verisk Synergy Studio catastrophe modeling platform launch",
+        "supporting_quotes": [
+          {
+            "quote": "Another example of our work to connect our data and capabilities is in our Extreme Events business. We are reimagining the core catastrophe modeling software platform into a fully cloud-native, scalable workflow solution, we are calling, Verisk Synergy Studio, launching in 2026. We recently engaged in more than 100 live one-on-one client demonstrations of Verisk Synergy Studio at our Verisk Insurance Conference last month and client interest and reception was very strong.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "Upon release, Verisk Synergy Studio will provide a flexible, fast and stable platform on which our full global suite of catastrophe models will be deployed at a lower cost of ownership, allowing for a better understanding of the near-present climate risk impacting the global insurance market. Importantly, Verisk Synergy Studio can also serve as a platform to connect the functionality of Verisk products and data sets and serve as an ecosystem hub for all Verisk's clients. We are excited about this rollout and are in active dialogue with clients ahead of the launch.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "product_development"
+      },
+      {
+        "theme": "Ecosystem platform expansion",
+        "supporting_quotes": [
+          {
+            "quote": "Specifically, we are continuing to grow our ecosystem by continually adding new partners to our various platforms across underwriting and claims, including property estimating solutions and anti-fraud. This is driving increased revenues for Verisk, more choice for clients and more connectivity and interoperability within the industry.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "We are also creating new platforms to connect different parts of the ecosystem, such as Regulatory Data Exchange launched in April to regulators. This platform streamlines data sharing between regulators and carriers across multiple jurisdictions. RDX enables regulators to review data elements that have been requested in prior data calls, both in their own and other jurisdictions in order to make regulatory data calls more consistent, efficient and less costly to insurers.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Simplitium acquisition for third-party model access",
+        "supporting_quotes": [
+          {
+            "quote": "And finally, just last month, we closed on the strategic acquisition of Simplitium from NASDAQ, a SaaS platform that will be part of our Extreme Events business. Simplitium supports an open ecosystem, where specialized model partners make models, hazard data and analytics available to the industry to help assess the global insurance protection gap. This acquisition will provide our clients with access to over 300 third-party models, providing unique niche views of risk across the globe, supporting the entire risk transfer ecosystem.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "M&A"
+      },
+      {
+        "theme": "Subscription revenue growth drivers",
+        "supporting_quotes": [
+          {
+            "quote": "Our subscription revenues which comprised 83% of our total revenue in the quarter, grew 10.6% on an OCC basis during the first quarter. We experienced solid growth across most of our largest subscription-based solutions with strong price realization in our renewals, expanded relationships with existing clients and solid sales of new solutions. We also continue to see a benefit from the conversions to committed subscriptions from previously transactional contracts.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Forms, rules and loss costs value capture through digitization",
+        "supporting_quotes": [
+          {
+            "quote": "Within forms, rules and loss costs, we continue to see improved value capture through pricing, as we digitize our content, expand our insights and release more client-facing innovations as part of Reimagine. This quarter, we expanded Executive Insights and the ISO Experience Index to another major line of insurance, commercial auto and brought several new innovations to market, including reimagined ratings for homeowners and personal auto.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer"
+          }
+        ],
+        "category": "pricing"
+      },
+      {
+        "theme": "Transactional revenue decline due to conversion and softness",
+        "supporting_quotes": [
+          {
+            "quote": "Our transactional revenues which comprised 17% of total revenues, declined 4% on an OCC basis during the first quarter. We have had continued success converting transactional revenues to committed subscriptions, including the 1 discrete contract that we have previously mentioned which has reduced our transactional revenue growth. In addition, we continue to experience soft results in our personal auto business as well as lower levels of service revenue in certain of our software-related businesses. This decline was partially offset by better-than-expected transactional growth within Extreme Event Solutions related to securitization.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Debt refinancing and leverage position",
+        "supporting_quotes": [
+          {
+            "quote": "During the first quarter, we issued $700 million of senior notes at 5.25% due 2035. And subsequently in April, retired $500 million of 4% notes that were due in June 2025. While we still expect our full-year interest expense to be in line with the previously guided range, the net effect of these transactions is that our ongoing quarterly run rate for the remainder of the year will be higher than in the first quarter. That said, we are comfortable with our current leverage which stands at 2x the EBITDA and is at the low end of our targeted range of 2x to 3x EBITDA.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer"
+          }
+        ],
+        "category": "capital_allocation"
+      },
+      {
+        "theme": "Capital return through dividends and share repurchases",
+        "supporting_quotes": [
+          {
+            "quote": "We are committed to returning capital to shareholders. During the first quarter, we paid a cash dividend of $0.45 per share, a 15% increase from the prior year. We also initiated a $200 million accelerated share repurchase program which was completed in April. We continue to have $1.4 billion in capacity remaining under our share repurchase authorization.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer"
+          }
+        ],
+        "category": "capital_allocation"
+      },
+      {
+        "theme": "Reiteration of full-year 2025 guidance",
+        "supporting_quotes": [
+          {
+            "quote": "We are pleased with our strong results for the first quarter and reiterate our outlook for 2025, or specifically, we expect consolidated revenue for 2025 to be in the range of $3.03 billion to $3.08 billion. We expect adjusted EBITDA to be in the range of $1.67 billion to $1.72 billion and adjusted EBITDA margins in the range of 55% to 55.8%. We expect our tax rate to be in the range of 23% to 25% and adjusted earnings per share in the range of $6.80 to $7.10.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer"
+          }
+        ],
+        "category": "guidance"
+      },
+      {
+        "theme": "Execution priorities and investment strategy",
+        "supporting_quotes": [
+          {
+            "quote": "Our execution priorities are unchanged, as we remain focused on delivering consistent and predictable growth while allocating capital back towards investment for future growth. Our heightened strategic engagement with clients has strengthened relationships and fostered new product and business opportunities for the industry, where we can invest at scale to drive value for clients, employees and shareholders. Our durable subscription-based economic model and strong cash flow enable us to continue to invest in our business while also returning capital to shareholders.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      }
+    ],
+    "financial_metrics_cited": [
+      {
+        "metric": "Organic constant currency revenue growth",
+        "value": "7.9%",
+        "context": "Organic constant currency revenue growth of 7.9% was driven by 10.6% subscription growth which was broad-based across most of our business units.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Subscription growth",
+        "value": "10.6%",
+        "context": "Organic constant currency revenue growth of 7.9% was driven by 10.6% subscription growth which was broad-based across most of our business units.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Margin expansion",
+        "value": "130 basis points",
+        "context": "Our focus on cost discipline delivered 130 basis points of margin expansion, resulting in OCC adjusted EBITDA growth of 9.5%.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "OCC adjusted EBITDA growth",
+        "value": "9.5%",
+        "context": "Our focus on cost discipline delivered 130 basis points of margin expansion, resulting in OCC adjusted EBITDA growth of 9.5%.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Insurance industry underwriting gain",
+        "value": "$25 billion",
+        "context": "In fact, according to data collected by Verisk and the American Property Casualty Insurance Association, the insurance industry returned to profitability in 2024, recording an underwriting gain of $25 billion marking the first game recorded in 4 years.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Los Angeles wildfire insurance losses estimate",
+        "value": "$28 billion to $35 billion",
+        "context": "and that trend has continued in 2025 as the year started with the devastating wildfires in Los Angeles which have had a profound impact on individuals, businesses, communities and our insurance industry clients and which Verisk estimated would result in $28 billion to $35 billion in insurance losses for the industry.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Reconstruction cost database line item activities",
+        "value": "over 23,000",
+        "context": "Our comprehensive database includes over 23,000 line item activities, assembled from over 14,000 material, equipment and labor components.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Reconstruction cost database material, equipment and labor components",
+        "value": "over 14,000",
+        "context": "Our comprehensive database includes over 23,000 line item activities, assembled from over 14,000 material, equipment and labor components.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Reconstruction cost database geographies covered",
+        "value": "over 470",
+        "context": "Our team of researchers and analysts survey and report pricing for these line items and components at market level for over 470 geographies in North America.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Verisk Synergy Studio client demonstrations",
+        "value": "more than 100",
+        "context": "We recently engaged in more than 100 live one-on-one client demonstrations of Verisk Synergy Studio at our Verisk Insurance Conference last month and client interest and reception was very strong.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Simplitium third-party models access",
+        "value": "over 300",
+        "context": "This acquisition will provide our clients with access to over 300 third-party models, providing unique niche views of risk across the globe, supporting the entire risk transfer ecosystem.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Q1 consolidated GAAP revenue",
+        "value": "$753 million",
+        "context": "On a consolidated and GAAP basis, first quarter revenue was $753 million, up 7% versus the prior year, reflecting solid growth across both underwriting and claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 consolidated GAAP revenue growth",
+        "value": "up 7%",
+        "context": "On a consolidated and GAAP basis, first quarter revenue was $753 million, up 7% versus the prior year, reflecting solid growth across both underwriting and claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 net income",
+        "value": "$232 million",
+        "context": "Net income was $232 million, up 6% versus the prior year, while diluted GAAP earnings per share, or EPS, were $1.65, up 9% versus the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 net income growth",
+        "value": "up 6%",
+        "context": "Net income was $232 million, up 6% versus the prior year, while diluted GAAP earnings per share, or EPS, were $1.65, up 9% versus the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 diluted GAAP EPS",
+        "value": "$1.65",
+        "context": "Net income was $232 million, up 6% versus the prior year, while diluted GAAP earnings per share, or EPS, were $1.65, up 9% versus the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 diluted GAAP EPS growth",
+        "value": "up 9%",
+        "context": "Net income was $232 million, up 6% versus the prior year, while diluted GAAP earnings per share, or EPS, were $1.65, up 9% versus the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 OCC revenue growth",
+        "value": "7.9%",
+        "context": "In the first quarter, OCC revenues grew 7.9% with growth of 7.2% in underwriting and 9.6% in claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 OCC underwriting growth",
+        "value": "7.2%",
+        "context": "In the first quarter, OCC revenues grew 7.9% with growth of 7.2% in underwriting and 9.6% in claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 OCC claims growth",
+        "value": "9.6%",
+        "context": "In the first quarter, OCC revenues grew 7.9% with growth of 7.2% in underwriting and 9.6% in claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 subscription revenue as percent of total revenue",
+        "value": "83%",
+        "context": "Our subscription revenues which comprised 83% of our total revenue in the quarter, grew 10.6% on an OCC basis during the first quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 subscription revenue OCC growth",
+        "value": "10.6%",
+        "context": "Our subscription revenues which comprised 83% of our total revenue in the quarter, grew 10.6% on an OCC basis during the first quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 transactional revenue as percent of total revenue",
+        "value": "17%",
+        "context": "Our transactional revenues which comprised 17% of total revenues, declined 4% on an OCC basis during the first quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 transactional revenue OCC decline",
+        "value": "declined 4%",
+        "context": "Our transactional revenues which comprised 17% of total revenues, declined 4% on an OCC basis during the first quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 OCC adjusted EBITDA growth",
+        "value": "9.5%",
+        "context": "Moving now to our adjusted EBITDA results. OCC adjusted EBITDA growth was 9.5% in the quarter, while total adjusted EBITDA margin which includes both organic and inorganic results, was 55.3%, up 130 basis points from the reported results in the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 total adjusted EBITDA margin",
+        "value": "55.3%",
+        "context": "OCC adjusted EBITDA growth was 9.5% in the quarter, while total adjusted EBITDA margin which includes both organic and inorganic results, was 55.3%, up 130 basis points from the reported results in the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 adjusted EBITDA margin expansion",
+        "value": "up 130 basis points",
+        "context": "OCC adjusted EBITDA growth was 9.5% in the quarter, while total adjusted EBITDA margin which includes both organic and inorganic results, was 55.3%, up 130 basis points from the reported results in the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Trailing 12-month adjusted EBITDA margins",
+        "value": "55%",
+        "context": "On a trailing 12-month basis, adjusted EBITDA margins were 55%, up 110 basis points over last year's levels.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Trailing 12-month adjusted EBITDA margin expansion",
+        "value": "up 110 basis points",
+        "context": "On a trailing 12-month basis, adjusted EBITDA margins were 55%, up 110 basis points over last year's levels.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 net interest expense",
+        "value": "$36 million",
+        "context": "Net interest expense was $36 million in the quarter compared to $29 million in the same period last year, resulting from higher debt balances and higher interest rates.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Prior year Q1 net interest expense",
+        "value": "$29 million",
+        "context": "Net interest expense was $36 million in the quarter compared to $29 million in the same period last year, resulting from higher debt balances and higher interest rates.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Senior notes issued",
+        "value": "$700 million",
+        "context": "During the first quarter, we issued $700 million of senior notes at 5.25% due 2035.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Senior notes interest rate",
+        "value": "5.25%",
+        "context": "During the first quarter, we issued $700 million of senior notes at 5.25% due 2035.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Notes retired",
+        "value": "$500 million",
+        "context": "And subsequently in April, retired $500 million of 4% notes that were due in June 2025.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Retired notes interest rate",
+        "value": "4%",
+        "context": "And subsequently in April, retired $500 million of 4% notes that were due in June 2025.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Current leverage ratio",
+        "value": "2x EBITDA",
+        "context": "That said, we are comfortable with our current leverage which stands at 2x the EBITDA and is at the low end of our targeted range of 2x to 3x EBITDA.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Target leverage range",
+        "value": "2x to 3x EBITDA",
+        "context": "That said, we are comfortable with our current leverage which stands at 2x the EBITDA and is at the low end of our targeted range of 2x to 3x EBITDA.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 reported effective tax rate",
+        "value": "21.6%",
+        "context": "Our reported effective tax rate was 21.6% compared to 20.3% in the prior year quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Prior year Q1 effective tax rate",
+        "value": "20.3%",
+        "context": "Our reported effective tax rate was 21.6% compared to 20.3% in the prior year quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 adjusted net income",
+        "value": "$245 million",
+        "context": "Adjusted net income increased 4.5% to $245 million and diluted adjusted EPS increased 6.1% to $1.73 for the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 adjusted net income growth",
+        "value": "increased 4.5%",
+        "context": "Adjusted net income increased 4.5% to $245 million and diluted adjusted EPS increased 6.1% to $1.73 for the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 diluted adjusted EPS",
+        "value": "$1.73",
+        "context": "Adjusted net income increased 4.5% to $245 million and diluted adjusted EPS increased 6.1% to $1.73 for the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 diluted adjusted EPS growth",
+        "value": "increased 6.1%",
+        "context": "Adjusted net income increased 4.5% to $245 million and diluted adjusted EPS increased 6.1% to $1.73 for the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 net cash from operating activities",
+        "value": "$445 million",
+        "context": "From a cash flow perspective, on a reported basis, net cash from operating activities increased 20% to $445 million, while free cash flow increased 23% to $391 million.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 net cash from operating activities growth",
+        "value": "increased 20%",
+        "context": "From a cash flow perspective, on a reported basis, net cash from operating activities increased 20% to $445 million, while free cash flow increased 23% to $391 million.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 free cash flow",
+        "value": "$391 million",
+        "context": "From a cash flow perspective, on a reported basis, net cash from operating activities increased 20% to $445 million, while free cash flow increased 23% to $391 million.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 free cash flow growth",
+        "value": "increased 23%",
+        "context": "From a cash flow perspective, on a reported basis, net cash from operating activities increased 20% to $445 million, while free cash flow increased 23% to $391 million.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Cash balance as of March 31",
+        "value": "$1.1 billion",
+        "context": "As of March 31, we had $1.1 billion in cash on our balance sheet. However, on April 21, we retired $500 million of our 4% notes due June 2025, reducing our cash balance.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Q1 cash dividend per share",
+        "value": "$0.45",
+        "context": "During the first quarter, we paid a cash dividend of $0.45 per share, a 15% increase from the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Cash dividend increase",
+        "value": "15%",
+        "context": "During the first quarter, we paid a cash dividend of $0.45 per share, a 15% increase from the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Accelerated share repurchase program",
+        "value": "$200 million",
+        "context": "We also initiated a $200 million accelerated share repurchase program which was completed in April.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "metric": "Remaining share repurchase authorization capacity",
+        "value": "$1.4 billion",
+        "context": "We continue to have $1.4 billion in capacity remaining under our share repurchase authorization.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      }
+    ],
+    "guidance_and_outlook": [
+      {
+        "topic": "FY 2025 consolidated revenue",
+        "verbatim_language": "we expect consolidated revenue for 2025 to be in the range of $3.03 billion to $3.08 billion",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "topic": "FY 2025 adjusted EBITDA",
+        "verbatim_language": "We expect adjusted EBITDA to be in the range of $1.67 billion to $1.72 billion",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "topic": "FY 2025 adjusted EBITDA margins",
+        "verbatim_language": "adjusted EBITDA margins in the range of 55% to 55.8%",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "topic": "FY 2025 tax rate",
+        "verbatim_language": "We expect our tax rate to be in the range of 23% to 25%",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "topic": "FY 2025 adjusted earnings per share",
+        "verbatim_language": "adjusted earnings per share in the range of $6.80 to $7.10",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "topic": "Full-year interest expense",
+        "verbatim_language": "we still expect our full-year interest expense to be in line with the previously guided range",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "topic": "Full-year tax rate",
+        "verbatim_language": "We continue to believe our tax rate will be in the range of 23% to 25% for the year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      }
+    ],
+    "commitments_and_priorities": [
+      {
+        "commitment": "these results are a demonstration of our emphasis on delivering consistent and predictable growth and our results-oriented culture",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "vague"
+      },
+      {
+        "commitment": "At Verisk, we are focused on supporting our clients with the most advanced data, analytics and insights to help them better understand risk and navigate through these dynamic times.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "vague"
+      },
+      {
+        "commitment": "we are now taking the learnings from 2024 and applying this improved sales model to a broader group of our business units in 2025, including our new growth vectors",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "specific"
+      },
+      {
+        "commitment": "In periods of rapid economic change, we often complete bimonthly updates to our research to ensure we are providing the most up-to-date market information.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "specific"
+      },
+      {
+        "commitment": "We are committed to returning capital to shareholders.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer",
+        "specificity": "vague"
+      },
+      {
+        "commitment": "Our execution priorities are unchanged, as we remain focused on delivering consistent and predictable growth while allocating capital back towards investment for future growth.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "vague"
+      },
+      {
+        "commitment": "Our durable subscription-based economic model and strong cash flow enable us to continue to invest in our business while also returning capital to shareholders.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "vague"
+      }
+    ],
+    "risk_acknowledgments": [
+      {
+        "risk_topic": "Uncertain risk environment including inflation, regulatory changes, rising reconstruction costs, social inflation and tariffs",
+        "verbatim_language": "That said, the industry still faces an uncertain risk environment ahead as challenges, including inflation, regulatory changes, rising reconstruction costs, social inflation and the potential impact of tariffs and severe weather events are making it more complex to operate.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "risk_topic": "Catastrophic losses from hurricanes and severe convective storms",
+        "verbatim_language": "Speaking of severe weather, last year marked the second worst year for catastrophic losses since 1950 with the vast majority of damages stemming from hurricane and severe convective storms, including the back-to-back hurricanes of Helene and Milton",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "risk_topic": "Los Angeles wildfires impact",
+        "verbatim_language": "and that trend has continued in 2025 as the year started with the devastating wildfires in Los Angeles which have had a profound impact on individuals, businesses, communities and our insurance industry clients",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "risk_topic": "Headwinds in marketing business from economically sensitive client segments",
+        "verbatim_language": "In our marketing business, we have experienced a recovery and growth from our insurance clients but continue to experience headwinds in other client segments that are more economically sensitive.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "risk_topic": "Soft results in personal auto business",
+        "verbatim_language": "In addition, we continue to experience soft results in our personal auto business",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "risk_topic": "Lower service revenue in software-related businesses",
+        "verbatim_language": "as well as lower levels of service revenue in certain of our software-related businesses",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "risk_topic": "Quarterly tax rate variability from employee stock option exercises",
+        "verbatim_language": "So there could be some quarterly variability related to employee stock option exercise activity.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      }
+    ],
+    "pricing_and_demand_commentary": [
+      {
+        "topic": "Premium increases matching risk levels",
+        "verbatim_language": "The current industry backdrop in which we are operating has strengthened as premium increases are better matched to levels of risk, thus driving improved trends.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "topic": "Client demand for greater insights, data connection, and efficient ecosystem",
+        "verbatim_language": "Through our strategic and elevated dialogue with clients, we continue to hear 3 key resounding areas of need. Specifically, our clients are asking for, one, greater and more timely insights; two, connection across our data sets and capabilities; and three, a more efficient and effective ecosystem.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "topic": "Price realization in renewals",
+        "verbatim_language": "We experienced solid growth across most of our largest subscription-based solutions with strong price realization in our renewals, expanded relationships with existing clients and solid sales of new solutions.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      },
+      {
+        "topic": "Improved value capture through pricing and digitization",
+        "verbatim_language": "Within forms, rules and loss costs, we continue to see improved value capture through pricing, as we digitize our content, expand our insights and release more client-facing innovations as part of Reimagine.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer"
+      }
+    ],
+    "competitive_commentary": [
+      {
+        "topic": "Verisk as trusted partner for data accuracy and timeliness",
+        "verbatim_language": "In today's volatile economic environment, our clients depend on precision to maintain appropriate coverage levels and competitive pricing in the market and they turn to Verisk as the trusted partner for our commitment to data accuracy and timeliness.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "topic": "Strong client reception to Verisk Synergy Studio demonstrations",
+        "verbatim_language": "We recently engaged in more than 100 live one-on-one client demonstrations of Verisk Synergy Studio at our Verisk Insurance Conference last month and client interest and reception was very strong.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      }
+    ],
+    "management_kpis_emphasized": [
+      "Organic constant currency revenue growth",
+      "Subscription growth",
+      "Margin expansion (basis points)",
+      "OCC adjusted EBITDA growth",
+      "Adjusted EBITDA margin",
+      "Underwriting growth",
+      "Claims growth",
+      "Subscription revenue as percentage of total revenue",
+      "Transactional revenue as percentage of total revenue",
+      "Free cash flow",
+      "Net cash from operating activities",
+      "Diluted adjusted EPS",
+      "Adjusted net income",
+      "Leverage ratio (debt to EBITDA)",
+      "Trailing 12-month adjusted EBITDA margin"
+    ],
+    "tone_indicators": {
+      "confidence_language": [
+        "I'm very pleased to share that 2025 is off to a positive start at Verisk",
+        "we delivered solid first quarter results",
+        "strong overall topline growth",
+        "healthy margin expansion",
+        "these results are a demonstration of our emphasis on delivering consistent and predictable growth",
+        "This strong revenue growth represents a solid start to the year",
+        "reinforces our ability to deliver consistent levels of growth",
+        "solid growth across most of our largest subscription-based solutions",
+        "strong price realization in our renewals",
+        "expanded relationships with existing clients",
+        "solid sales of new solutions",
+        "We experienced solid growth",
+        "client interest and reception was very strong",
+        "We are excited about this rollout",
+        "We are pleased with our strong results for the first quarter",
+        "are in active dialogue with clients ahead of the launch"
+      ],
+      "caution_language": [
+        "That said, the industry still faces an uncertain risk environment ahead",
+        "challenges, including inflation, regulatory changes, rising reconstruction costs, social inflation and the potential impact of tariffs and severe weather events are making it more complex to operate",
+        "continue to experience headwinds in other client segments that are more economically sensitive",
+        "we continue to experience soft results in our personal auto business",
+        "lower levels of service revenue in certain of our software-related businesses",
+        "So there could be some quarterly variability related to employee stock option exercise activity"
+      ],
+      "deflection_or_reframing": [
+        "This decline was partially offset by better-than-expected transactional growth within Extreme Event Solutions related to securitization.",
+        "This level of expansion also embeds the self-funded investments back into our business for invention and future growth.",
+        "We have had continued success converting transactional revenues to committed subscriptions, including the 1 discrete contract that we have previously mentioned which has reduced our transactional revenue growth."
+      ]
+    }
+  },
+  "qanda": {
+    "source": "Q&A",
+    "exchanges": [
+      {
+        "analyst_name": "Toni Kaplan",
+        "analyst_firm": "Morgan Stanley",
+        "questions": [
+          {
+            "question_text": "Thanks so much. I was hoping you could give us your latest observations and thoughts on the marketing solutions, particularly you called out the non-insurance business. It seemed like that was a bit of a drag this quarter on the transactional side. I was really wondering, is this core to your business or are there synergies that you have with your insurance marketing solutions and that's why you have it or just wondering if it makes sense to continue to be in that business and if any color on the outlook for the marketing business overall in 25, especially if we were to see a bit of a macro slowdown. Thank you.",
+            "topic": "Marketing solutions performance and outlook"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Thanks for the question, Toni. Yeah, the marketing business, you know, that we entered a couple years ago does present us an opportunity to access some of the spend that takes place at our insurance carrier clients. That part of the business has continued to grow. As you know, we entered those businesses from acquisition, and so those remain exposed to a couple other customer segments, particularly within financial services and mortgages. Those have been going through some headwinds over the last couple of years. Then as we look ahead with potential pressures on discretionary spend, that could be a challenge for the balance of the year.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Kelsey Zhu",
+        "analyst_firm": "Autonomous Research",
+        "questions": [
+          {
+            "question_text": "Hi, good morning. Thanks for taking my question. You called out strong pricing realization in forms of lost cost. I was just wondering was contributing to trends you're seeing there. Obviously, we know 20 to 25 percent of your revenues come from contracts that have a direct input based on premium growth from two years ago. I was wondering if that was the main driver of that strong pricing realization, and just how much did pricing contribute to overall growth in Q1?",
+            "topic": "Pricing realization and contribution to growth"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yeah, thanks, Kelsey. Of course, our main focus in that business is delivering the value to clients. As you've heard us talk about the developments in Core Lines Reimagine, I think there's getting to be more and more tangible that they can see and feel and experience that's contributing to that sense of value. That is supported by the strong premium environment. And so for those contracts with a premium input, the full year 23 premium strength was very strong at, you know, over 10%, around 11%. So, both of those things are factors.",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "And I might add, Kelsey, that this is one example. We have also seen this in other product areas. And I think we've talked previously about the strength of the performance in our Extreme Event solution. It's a function of not only investing but also elevating the dialogue and the awareness of the value that we're creating across the enterprise that I think is supporting that. And in terms of ongoing developments, I'm going to ask Saurabh Khemka, who is with us, to talk about some of the features that we're continuing to roll out over the next year or so that will add to the value, the incremental value that we're providing to clients.",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Saurabh Khemka",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yes, absolutely. Happy to, Lee. So on 2 fronts, one, we've talked about on the Executive Insights, the Experience Indexes which provide more insights and thus, more value to our customers, as they think about their pricing in this environment. There's also a lot of tools that we're providing for automation and that are driving efficiencies in their operations. So they see value both from an insight perspective but also from a cost savings perspective.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Faiza Alwy",
+        "analyst_firm": "Deutsche Bank",
+        "questions": [
+          {
+            "question_text": "So, I wanted to ask about margins. You've had really strong margin performance over the last couple of years. And even now, you've been above sort of the long-term level of margin growth that you had talked about. So I'm curious. I know you mentioned some timing of expenses. But maybe talk a little bit about where you are in the journey of your global talent optimization efforts and how we should think about efficiencies in the business going forward.",
+            "topic": "Margin performance and future efficiency outlook"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yeah, thanks for the question, Faiza. It is, you know, margin efficiency has become a discipline that I think has become really embedded into our processes, and there's always more that we can do on the efficiency front. That said, as you've highlighted, we had a couple years of, you know, very significant focus on margin expansion. And I think the trajectory of margin expansion from here may taper a bit as our guidance indicates. You know, for the quarter itself, it was a pretty strong margin expansion. You know, some of that reflects, as I said, the timing of spend can vary quarter to quarter, which is why we always tend to look at the trailing 12 months. The other thing I mentioned is, you know, we had a benefit with a relatively strong revenue performance quarter. It did include, and maybe we'll get to this, there was a modest benefit of some storm associated revenue in the property estimating solutions business, which always comes at high incremental margins.",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "And Faiza, I would add one other thing which is the counterbalance to those operating efficiencies, is our level of investment intensity. And so what we are always trying to do is balance that incremental investment that will support growth and even efficiency down the road with the more immediate margins. And so it's going to vary from quarter to quarter. But that is also a moderating influence that we think is in the best long-term interest for our shareholders.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Andrew Nicholas",
+        "analyst_firm": "William Blair",
+        "questions": [
+          {
+            "question_text": "Hi, good morning. Lee, in your prepared remarks, you talked about bringing the improved sales model to a broader group of businesses and your new growth sectors. Could you spend a little bit more time fleshing that out? I mean, is that specific to speaking to executive groups more regularly, being more in tune with their needs, or is there something beyond that? Maybe what it looks like in practice in terms of flushing that out and bringing it to other groups within the organization. Thank you.",
+            "topic": "Expansion of improved sales model to growth businesses"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "Thank you, Andrew. It really relates to when we did the review of our go-to-market strategy, it was focused on our largest businesses. So, you know, our claims sales team, our extreme events sales team, our underwriting decision analytics sales team, we actually wanted to identify where we could have the biggest impact across those large businesses. And what we're referring to from extending that is bringing some of the disciplines and what we have learned from the very positive impact we've had across those larger businesses to some of our growth businesses. So with our life insurance business, with our SBS business, with various marketing solutions, how can we leverage some of those learnings against those businesses? And so we're hopeful that we'll see a similar level of success that we've had in some of the larger businesses. So that's the extension.\n\nYou referred to the broader elevation of our strategic dialogue. I think that is already in place. I do think that has been focused on our largest customers. But those skill sets are something that we will look to expand and be part of our philosophy in terms of how we think about serving all of our clients with more of a relationship and enterprise orientation.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Alex Kramm",
+        "analyst_firm": "UBS",
+        "questions": [
+          {
+            "question_text": "Yes, good morning everyone. Just wanted to come back to the, I guess, uncertain environment over the last couple of months, tariffs, et cetera. I think your end market is generally fairly insulated against that, but obviously you already mentioned with the marketing side that there's, you know, some other industries. So just wondering across the business, are you seeing any delays in decision-making or is it, you know, true as it always been that the insurance industry seems to be very immune to some of what's going on, but anything you're seeing would be helpful, thanks.",
+            "topic": "Impact of macro uncertainty and tariffs on business"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yeah, thanks a bunch for the question, Alex. It's certainly something that we've been monitoring very closely. From our own business, from a Verisk financial perspective, we don't believe we have kind of a material direct exposure to tariffs and the implications. I think for the insurance industry overall, I think there are potential impacts. You know, if there were to be an environment with higher costs, that would translate into higher costs for claims and claims fulfillment. And so that could potentially lead to lower profitability in the insurance industry in the short term. And so that's something that our clients are monitoring very closely and we're working with them. Indeed, our data and analytics is doing a lot to try to support them in measuring and assessing the environment that they are in. So those are kind of some of the factors that we've been following.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Andrew Steinerman",
+        "analyst_firm": "JPMorgan",
+        "questions": [
+          {
+            "question_text": "Elizabeth, on Slide 10, the guide, could you just focus just a little bit more on the D&A line? I know I asked you about this last quarter. Do you feel like D&A as a percentage of revenues will kind of stay in this range going forward from here? Like is there a bias upwards? Is there a bias downwards, again, D&A as a percentage of revenues? And what the implications on ROIC are going forward?",
+            "topic": "D&A trends and ROIC implications"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yes, Andrew. Thanks for the question. It is something that we take a look at. We haven't given a long-term forecast for D&A as a percent of revenue. The D&A is a direct consequence, obviously, of the CapEx and the projects that we've placed in service. And I think for this year, in these quarters, you're seeing the impact of some projects placed into service that were actually fairly long-term builds, both the work we've been doing on the Core Lines Reimagine program as well as the next-generation financial models that were developed in Extreme Events solutions. So both of those things were some long-term builds that are being placed into service. I think from where we are now, the growth rate of that D&A will probably -- well, the number will converge with the CapEx. I think the growth from here will probably be a bit hair below",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "And Andrew, it's Lee. I can't resist a return on invested capital question. And I just want to make certain that you understand when we are looking at our return on invested capital, depreciation and amortization which is an expensing of that CapEx is removed, we put all of our CapEx into invested capital. So our returns which would be a classic net operating profit loss after tax, excludes any accounting expense related to that. The CapEx is the capital element or the invested capital element that we're engaging a return off of.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Jeff Meuler",
+        "analyst_firm": "Baird",
+        "questions": [
+          {
+            "question_text": "Yeah, thank you. Do you expect the increased contribution to forms, rules, and loss cost revenue growth from four lines to play out over kind of the two to three-year adoption period, or can it extend beyond that with ongoing better innovation and starting to implement AI and whatnot, or I guess at the very least help with ourselves and other businesses in conjunction with the enhanced go-to-market effort?",
+            "topic": "Duration of Core Lines Reimagine value contribution"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yes, I'll start with that. I think, look, the goals in the investments that we're making in Core Lines Reimagine is absolutely to be a platform to continue to deliver long-term value for clients and to continue to innovate as the possibility of what you can do with data and analytics and now incorporating GenAI can do over time. So we expect to continue delivering more core value.\n\nOne thing I would add is for a majority of our clients, they're signing long-term contracts with us. So as they're signing these contracts, they are seeing this value being accrued to them over long terms as we do the contracts today.",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yeah. And, Jeff, thanks for the question. I think, you know, one dimension of this is that we are enabling the deeper and more efficient integration of our data sets into their processes, which then becomes just part of the way that they're doing business. And so I think there's inherently a real long-term benefit and value to them from that.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Gregory Peters",
+        "analyst_firm": "Raymond James",
+        "questions": [
+          {
+            "question_text": "Good morning, everyone. I appreciate your comments at the opening about helping your clients become more efficient with their ecosystems. It seems like that's a pretty ripe area. I was wondering if you could just build on some of your information in that because it feels like even though you have a cloud-based approach and using up-to-date technology, a lot of your customers are operating on legacy platforms that are clunky and outdated, to say the least. Maybe you could just give us some color on how challenging it is to deploy your solutions when you're dealing with these legacy systems, which are old, to say the least.",
+            "topic": "Client ecosystem efficiency and legacy system integration"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "Great. Thanks for the question. I think it's a very relevant question. And the way I would answer it is that there are two factors here. One is I think that the industry is taking more steps than ever to modernize that infrastructure through work with third-party vendors, many of which are partners of ours, and so that is facilitating our ability to enable some of the benefits from our Corelines reimagined investments for their benefit. So I think we are seeing that. A lot of our work isn't necessarily directly with the carriers, but with their vendors and integrating that data set. And I also think that a variety of technologies that are facilitating more connectivity within the industry is helping in that regard.\n\nIn that vein, our role as a connector within the industry and within specific functions like claims or in risk modeling are providing a level of connectivity and integration that is very costly, to your point, for a lot of our customers to handle on their own. I'll give you a specific example. And so you have heard us talk about our efforts to make our claims platform, our property estimating solutions or exact where platform, a more open ecosystem. And that was based on a lot of feedback that we had from clients where there were complementary vendors or service providers that much of the industry had to invest time in diligencing and connecting into their systems, which was problematic. But with our existing connection to insurers, contractors, adjusters, clients on that platform, it was much more efficient and easy for us to be able to validate insurer security standards for those vendors. And that's an inherent deficiency. And we're doing that in claims, I think we're increasingly doing that on the auditing side. And as you hear us talk about Synergy Studio, that is also a connective network that I think is facilitating that greater efficiency on behalf of the clients.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "George Tong",
+        "analyst_firm": "Goldman Sachs",
+        "questions": [
+          {
+            "question_text": "I wanted to go back to your point on improved price realization. It sounds like this is a structural change to your approach to pricing. Can you talk about what proportion of your broader business you've begun to accelerate your pricing increases? And how long it may take to close the gap between pricing and value provided at the broader company level?",
+            "topic": "Price realization strategy and scope"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "George, thanks for the question. I would say the avenues have been focused on where we are making investments based upon feedback from clients on how we can create, how we can create value for them, and recognizing that requires investment on our part. And I think that dialogue, which has benefited from that higher level, more strategic dialogue, has helped us clarify and improve an understanding of where we are creating value for them and how we participate in that value creation.\n\nI think you asked around which channels, I think it's really all of our major channels on the underwriting side, extreme events within our claims business. That has been part of what we have improved in our ability to achieve a stronger price realization through that. Now, in terms of closing the gap, I don't know that you will ever get there. There's always going to be a difference in perception between how we think we're providing value and where our clients are providing value. I think there is a gap. The objective is to continue to use that as a means for us to deliver more value and capture that with our clients. So in that sense, I think it's a continuous journey.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "David Motemaden",
+        "analyst_firm": "Evercore ISI",
+        "questions": [
+          {
+            "question_text": "I have a question on just the broader market. And so it looks like in commercial P&C, pricing is starting to get a little bit more competitive. We're also seeing that on the personal auto side. Are you seeing any early signs that your customers are getting a little bit more focused on expenses?",
+            "topic": "Customer focus on expenses amid competitive pricing environment"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "David, thanks for the question. I would say that our customers have been focused on efficiency pretty consistently at an enterprise level. And I don't think that the – it wouldn't be our observation that trends in pricing have a material impact. I certainly think that when overall profitability is challenged and you're seeing greater combined ratios, there's a natural inclination to try to find greater and greater efficiencies. But the general trend that we've observed and which we referenced in the opening comments is that 2024 was the first year in the past four years where you had an underwriting gain and we saw a 96% combined ratio for the industry. So I would say generally the premium growth has led to more appetite for investment to support continued efficiencies across it. So I think that's just a general trend. We haven't seen a particular inflection point based upon trends in commercial P&C or personal auto from my perspective.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Ashish Sabadra",
+        "analyst_firm": "RBC Capital Markets",
+        "questions": [
+          {
+            "question_text": "This is David Paige on for Ashish. I was wondering on the buyback, can you just maybe give a rough cadence or just for full year 2025? How are you thinking about buybacks for 2Q and 4Q?",
+            "topic": "Share buyback cadence and outlook"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Thanks, David. We don't give a forecast for buyback amount for the year, and the real reason for that is that we follow our capital allocation framework. So, we prioritize organic investment in the business. We explore M&A opportunities. We've obviously committed to the dividend return and then we balance sheet availability and attractiveness of share repurchase. But to the extent we don't have a need for capital, we will continue returning it to shareholders in the form of buybacks as well as dividends.",
+            "directness": "partial"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Russell Quelch",
+        "analyst_firm": "Redburn Atlantic",
+        "questions": [
+          {
+            "question_text": "So Elizabeth, you made some remarks in your opening comments but maybe you could give a clearer breakdown on the various drivers of the 4% year-on-year fall in transaction revenue and disclose perhaps what the growth in transactional revenue was excluding the impact of onetime conversions. I'm also particularly interested in why there was not a positive tailwind to transactional revenue growth in the auto shopping sector given the strong J.D. Power data in the quarter? Maybe you could discuss that as well.",
+            "topic": "Transactional revenue decline drivers and auto shopping performance"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yeah, sure. Thanks for the question, Russell. I'll take that as a two-parter. So, first, the transactional and the 4% decline. We quantified for you the one contract conversion that we've called out in the past. This is the last full quarter of that, and that's an impact of 200 to 250 basis points for the quarter. Other headwinds in transactional more generally is contract conversions, and we've talked about that before in our anti-fraud space. We had in the past great success with the TPA customer segment, and it's a playbook that's been very successful for us to continue to get customers to commit to committed contracts. So, we will continue playing that in other customer segments as we see the opportunity.\n\nIn addition, some of our ecosystem partners are now shifting to committed contracts. So, that's a benefit for us. But apart from that one single contract, we haven't and aren't able to quantify the full aggregate impact of it. You know, finally, some of our transactional revenue comes from implementations of software programs, and so those can be sometimes lumpy in the start of ongoing subscriptions. So our specialty business solutions had some significant projects last year that we're now copying the impact of. So again, that transactional revenue is really the output of how we run our business in the aggregate rather than something we are managing as a bucket in and of itself.\n\nSo that was the first part of your question. I think the second part of your question was on the auto business and on some of the transactional headwinds there. The shopping activity does continue, so that business has balanced results. I think we talked in the last quarter about some attrition, particularly in the insure tech customer segment, and our overall mix in that auto business may not be an exact match for the market as a whole. The final point, the final dynamic that's going on in the auto segment, we've talked about our non-rate action business. As rates overall have recovered in the industry, there's been less activity on that non-rate action deal as carriers shift their focus.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Jason Haas",
+        "analyst_firm": "Wells Fargo",
+        "questions": [
+          {
+            "question_text": "I'm curious if you've seen any change in client conversation in the quarter-to-date period given the macro uncertainty, if you're seeing any pause in projects or anything like that. And then, maybe you could talk more big picture about -- curious which parts of your business you see as most economically sensitive and which parts are more resilient and even potentially countercyclical.",
+            "topic": "Client behavior amid macro uncertainty and business sensitivity"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "Sure, Jason. Thanks. I'll start off generally saying in terms of our dialogue with our clients, I don't think we have seen a fundamental change in terms of their priorities and what they need to accomplish day-to-day and how we serve that. Naturally, there is some greater focus on the impact of tariffs, particularly to the extent that any inflationary factors are beginning to affect their claims costs, and that's something that we're very well positioned to address, as Elizabeth described earlier, where through our property estimating solutions business, we track a great deal of specific supplies and materials costs as well as labor costs associated with rebuilding, and so we have already had conference calls and put out reports tracking any sensitivity and will continue to do so. So I would say that's the one area that they have been focused on in understanding the potential impacts of the tariff situation.",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "I was going to add -- you were asking about other customer segments and economically sensitive customer segments, so I was just going to add that we are watching the macroeconomic impact on some of our non-carrier customer segments. We talked last quarter, the federal government contributes less than 1% of our revenues. So it is a small impact but we are seeing cost pressure across federal agencies. And so that's one that could have some sort of discretionary spend impact as well as the marketing segments that we've already talked about.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Manav Patnaik",
+        "analyst_firm": "Barclays",
+        "questions": [
+          {
+            "question_text": "This is Brendan on for Manav. Just wanted to ask on M&A opportunities, we could see valuations come down maybe alongside public equities at some point this year, so I guess, what kind of areas would you like to kind of augment your capabilities? And kind of what are you seeing there?",
+            "topic": "M&A strategy and target areas"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "I appreciate the question. So certainly, the uncertainty in the market and the impact on valuations is a potential benefit. We also have observed that the private equity community generally has been more challenged in monetizing some of their investments. So I do think that the environment has improved. What we continue -- have been and will continue to look for is where are their products that have demonstrated an ability to add value to the insurance industry that we can improve either by accelerated distribution or integration into our products to enhance their business as well as potentially contributing datasets that are valuable to our analytics business. So we have been actively monitoring that sector. You saw recently a small deal with the acquisition of Simplitium from NASDAQ. So it's a sign that we are watching for opportunities with a primary focus on how do we add value to those businesses leveraging the relationships and the capabilities that we have.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      },
+      {
+        "analyst_name": "Jeff Silber",
+        "analyst_firm": "BMO Capital Markets",
+        "questions": [
+          {
+            "question_text": "In your prepared remarks, you talked about some of the weather impact on the industry. I'm just curious, is it possible to parse out what the impact was on your business in the second quarter in terms of claims from some of those events?",
+            "topic": "Weather impact on business performance"
+          }
+        ],
+        "responses": [
+          {
+            "speaker": "Elizabeth Mann",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yes. Thanks for the question, Jeff. From a wildfire perspective, which I think is what we were talking about there, it has very little de minimis impact. I did mention that we had a very modest benefit from weather-related effects in PII. That relates primarily to a small tail from the fourth quarter hurricanes, as well as actually a pretty active, you know, severe convective storm environment across the U.S.",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "And I would say, Jay, you know, I think your fundamental question was what Elizabeth addressed. But with regard to the wildfires, clearly that has been an important topic. And as we have said, we were the first to submit our wildfire model to the California Department of Insurance, and we've gotten a lot of questions and interest from clients around our wildfire model, and I want to ask Robert Newbold, who's with us, just to give us an update in terms of the level and the quality of dialogue that we've been hearing from clients on that model in particular.",
+            "directness": "partial"
+          },
+          {
+            "speaker": "Rob Newbold",
+            "role": "NOT_PROVIDED",
+            "response_text": "Yes. Thanks, Lee. We were really pleased to bring an updated view of risk for California wildfire to the market last summer, in June 2024. Our client dialogue has been really excellent on the value that model is providing to people's overall risk management. As Lee noted, we're engaging with the California Department of Insurance, allowing that model to be used for rate-making in the state and continue to be excited about the possibilities that will open up to bring global resilience to that particular market.",
+            "directness": "direct"
+          },
+          {
+            "speaker": "Lee Shavel",
+            "role": "NOT_PROVIDED",
+            "response_text": "We continue to believe that the severe weather that we're experiencing continues to point to the value of the analytics and the models that we provide to our clients.",
+            "directness": "direct"
+          }
+        ],
+        "follow_ups": []
+      }
+    ],
+    "financial_metrics_cited_in_qa": [
+      {
+        "metric": "Premium growth (full year 2023)",
+        "value": "over 10%, around 11%",
+        "context": "And so for those contracts with a premium input, the full year 23 premium strength was very strong at, you know, over 10%, around 11%.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "metric": "Combined ratio (2024)",
+        "value": "96%",
+        "context": "But the general trend that we've observed and which we referenced in the opening comments is that 2024 was the first year in the past four years where you had an underwriting gain and we saw a 96% combined ratio for the industry.",
+        "speaker": "Lee Shavel",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "metric": "Transactional revenue decline",
+        "value": "4%",
+        "context": "So, first, the transactional and the 4% decline.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "metric": "Contract conversion impact",
+        "value": "200 to 250 basis points",
+        "context": "We quantified for you the one contract conversion that we've called out in the past. This is the last full quarter of that, and that's an impact of 200 to 250 basis points for the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "metric": "Federal government revenue contribution",
+        "value": "less than 1%",
+        "context": "We talked last quarter, the federal government contributes less than 1% of our revenues.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "metric": "Revenue from premium-linked contracts",
+        "value": "20 to 25 percent",
+        "context": "Obviously, we know 20 to 25 percent of your revenues come from contracts that have a direct input based on premium growth from two years ago.",
+        "speaker": "Kelsey Zhu",
+        "role": "NOT_PROVIDED"
+      }
+    ],
+    "new_information_revealed": [
+      {
+        "topic": "Storm revenue benefit in Q1",
+        "verbatim_language": "there was a modest benefit of some storm associated revenue in the property estimating solutions business, which always comes at high incremental margins",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED",
+        "significance": "Reveals specific driver of Q1 margin strength not mentioned in prepared remarks"
+      },
+      {
+        "topic": "Non-rate action business decline",
+        "verbatim_language": "As rates overall have recovered in the industry, there's been less activity on that non-rate action deal as carriers shift their focus.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED",
+        "significance": "Provides specific explanation for auto shopping transactional headwinds"
+      },
+      {
+        "topic": "InsurTech customer attrition",
+        "verbatim_language": "I think we talked in the last quarter about some attrition, particularly in the insure tech customer segment",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED",
+        "significance": "Identifies specific customer segment experiencing challenges"
+      },
+      {
+        "topic": "TPA contract conversions success",
+        "verbatim_language": "We had in the past great success with the TPA customer segment, and it's a playbook that's been very successful for us to continue to get customers to commit to committed contracts.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED",
+        "significance": "Reveals successful strategy with specific customer segment"
+      },
+      {
+        "topic": "Federal agency cost pressures",
+        "verbatim_language": "we are seeing cost pressure across federal agencies. And so that's one that could have some sort of discretionary spend impact",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED",
+        "significance": "Identifies specific near-term headwind not previously discussed"
+      },
+      {
+        "topic": "Wildfire model first submission",
+        "verbatim_language": "we were the first to submit our wildfire model to the California Department of Insurance",
+        "speaker": "Lee Shavel",
+        "role": "NOT_PROVIDED",
+        "significance": "Establishes competitive positioning in California wildfire modeling"
+      },
+      {
+        "topic": "Simplitium acquisition",
+        "verbatim_language": "You saw recently a small deal with the acquisition of Simplitium from NASDAQ.",
+        "speaker": "Lee Shavel",
+        "role": "NOT_PROVIDED",
+        "significance": "References recent M&A activity as evidence of active deal pipeline"
+      }
+    ],
+    "guidance_clarifications": [
+      {
+        "topic": "Margin expansion trajectory",
+        "verbatim_language": "And I think the trajectory of margin expansion from here may taper a bit as our guidance indicates.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "topic": "D&A growth rate",
+        "verbatim_language": "I think the growth from here will probably be a bit hair below",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      }
+    ],
+    "pricing_and_demand_commentary": [
+      {
+        "topic": "Premium-linked pricing strength",
+        "verbatim_language": "And so for those contracts with a premium input, the full year 23 premium strength was very strong at, you know, over 10%, around 11%. So, both of those things are factors.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "topic": "Core Lines Reimagine value perception",
+        "verbatim_language": "As you've heard us talk about the developments in Core Lines Reimagine, I think there's getting to be more and more tangible that they can see and feel and experience that's contributing to that sense of value.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "topic": "Pricing across major channels",
+        "verbatim_language": "I think it's really all of our major channels on the underwriting side, extreme events within our claims business. That has been part of what we have improved in our ability to achieve a stronger price realization through that.",
+        "speaker": "Lee Shavel",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "topic": "Pricing vs. value gap",
+        "verbatim_language": "Now, in terms of closing the gap, I don't know that you will ever get there. There's always going to be a difference in perception between how we think we're providing value and where our clients are providing value.",
+        "speaker": "Lee Shavel",
+        "role": "NOT_PROVIDED"
+      },
+      {
+        "topic": "Marketing solutions headwinds",
+        "verbatim_language": "Those have been going through some headwinds over the last couple of years. Then as we look ahead with potential pressures on discretionary spend, that could be a challenge for the balance of the year.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED"
+      }
+    ],
+    "evasion_and_deflection_instances": [
+      {
+        "analyst_question_summary": "Requested specific quantification of transactional revenue growth excluding conversions",
+        "question_text": "maybe you could give a clearer breakdown on the various drivers of the 4% year-on-year fall in transaction revenue and disclose perhaps what the growth in transactional revenue was excluding the impact of onetime conversions",
+        "response_text": "But apart from that one single contract, we haven't and aren't able to quantify the full aggregate impact of it.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED",
+        "evasion_type": "vagueness"
+      },
+      {
+        "analyst_question_summary": "Asked for specific buyback guidance for 2Q and full year",
+        "question_text": "I was wondering on the buyback, can you just maybe give a rough cadence or just for full year 2025? How are you thinking about buybacks for 2Q and 4Q?",
+        "response_text": "We don't give a forecast for buyback amount for the year, and the real reason for that is that we follow our capital allocation framework.",
+        "speaker": "Elizabeth Mann",
+        "role": "NOT_PROVIDED",
+        "evasion_type": "forward_reference"
+      }
+    ],
+    "tone_indicators": {
+      "defensive_responses": [],
+      "candid_acknowledgments": [
+        "Now, in terms of closing the gap, I don't know that you will ever get there. There's always going to be a difference in perception between how we think we're providing value and where our clients are providing value.",
+        "But apart from that one single contract, we haven't and aren't able to quantify the full aggregate impact of it."
+      ],
+      "enthusiasm_or_confidence": [
+        "We were really pleased to bring an updated view of risk for California wildfire to the market last summer, in June 2024. Our client dialogue has been really excellent on the value that model is providing to people's overall risk management.",
+        "And so we're hopeful that we'll see a similar level of success that we've had in some of the larger businesses.",
+        "We continue to believe that the severe weather that we're experiencing continues to point to the value of the analytics and the models that we provide to our clients."
+      ]
+    },
+    "qa_summary_stats": {
+      "total_analyst_questioners": 14,
+      "total_exchanges": 14,
+      "questions_answered_directly": 32,
+      "questions_answered_partially": 2,
+      "questions_evaded": 2,
+      "questions_deferred": 0
+    }
+  }
+}

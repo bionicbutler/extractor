@@ -1,0 +1,152 @@
+{
+  "mda": {
+    "source": "Item 7 — Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "management_narrative_summary": "Verisk is a leading data analytics provider serving clients in the insurance markets. Using advanced technologies to collect and analyze billions of records, the company draws on unique data assets and deep domain expertise to provide innovations that may be integrated into client workflows. On February 1, 2023, Verisk completed the sale of its Energy business to Planet Jersey Buyer Ltd, an entity controlled by The Veritas Capital Fund VIII, L.P. for a net cash sale price of $3,066.4 million. For the year ended December 31, 2023, revenues were $2,681.4 million compared to $2,497.0 million in 2022, representing an increase of $184.4 million or 7.4%. The company offers predictive analytics and decision support solutions to clients in rating, underwriting, claims, catastrophe and weather risk, global risk analytics, and many other fields.",
+    "key_performance_drivers": [
+      {
+        "driver": "Organic revenue growth (Insurance segment, excluding acquisitions, businesses held for sale and dispositions)",
+        "direction": "positive",
+        "magnitude_if_stated": "8.7%"
+      },
+      {
+        "driver": "Recent acquisitions (Morning Data, Mavera, and Krug)",
+        "direction": "positive",
+        "magnitude_if_stated": "$32.4 million"
+      },
+      {
+        "driver": "Sale of 3E and Financial Services segment (prior year revenues no longer included)",
+        "direction": "negative",
+        "magnitude_if_stated": "$60.0 million"
+      },
+      {
+        "driver": "Underwriting revenues increase primarily due to annual price increases from continued enhancements to content and selling expanded solutions to new and existing customers",
+        "direction": "positive",
+        "magnitude_if_stated": "$146.6 million or 8.5%"
+      },
+      {
+        "driver": "Claims revenues increase primarily due to growth in property estimating solutions and anti-fraud solutions",
+        "direction": "positive",
+        "magnitude_if_stated": "$65.4 million or 9.3%"
+      },
+      {
+        "driver": "Litigation reserve expense associated with an indemnification of an ongoing inquiry related to former Financial Services segment",
+        "direction": "negative",
+        "magnitude_if_stated": "$38.2 million"
+      },
+      {
+        "driver": "Increase in depreciation and amortization of fixed assets primarily driven by assets placed into service to support revenue growth",
+        "direction": "negative",
+        "magnitude_if_stated": "$44.6 million"
+      }
+    ],
+    "known_trends_and_uncertainties": [
+      "A significant change in P&C insurers' profitability could affect the demand for our solutions. Direct written premiums continued to grow in 2023 on comparable level. In 2023, the main economic indicators stabilized, inflation began to fall, and the federal interest rate increases stopped mid-year.",
+      "The trend of high catastrophic losses incurred by insurers that began in 2020, continued into 2023 – a time during which the estimated sum of losses from events that ISO's Property Claims Service had classified as catastrophes remains above the 10- and 20-year averages. While 2023 did not bring any high-loss large catastrophes, it is worth noting that the losses incurred by insurers during the tornado season from March to June were record-breaking in the history of ISO's Property Claims Service measurements. The upward trend in the number of disasters recorded by ISO's Property Claims Service continues in 2023 - the average increase in the number of disasters was 14% over the last 5 years.",
+      "In response to rising inflation, carriers are working to reset pricing to fix loss ratios and improve profitability. This has slowed their marketing spend for customer acquisition. Until premium pricing adjustments take effect and profitability improves, carriers are refraining from spending to drive new policy volume, creating short term impacts on demand and volume for our Marketing Solutions offerings and auto underwriting solutions.",
+      "Trends in catastrophe and non-catastrophe losses (such as from weather, climate, casualty, terrorism, pandemics, and tsunamis) can have an effect on our customers' profitability, and therefore on their appetite for buying analytics to help them manage their risks. Any increase or decrease in frequency or severity of these events over time could lead to an increased or decreased demand for our catastrophe modeling, catastrophe loss information, and repair cost solutions.",
+      "In the life insurance market, carriers are looking to modernize and digitize their core platforms, as well as offer streamlined underwriting decision-making process to expand the number of policies, which can be offered more rapidly, and without cumbersome medical tests. Our no-code modular technology stack and advanced analytics enable the digital transformation of our customers' core infrastructure and automate their decision-making processes across the policy lifecycle.",
+      "In Florida specifically, the high overall claim risk, as evidenced by Hurricane Ian, combined with the litigious environment in the state poses an even greater risk to insurers who have faced two consecutive years with significant net underwriting losses. In California, the Department of Insurance enacted regulations for wildfire mitigation discounts in rating plans and wildfire risk models in response to an insurance affordability crisis in wildfire prone areas."
+    ],
+    "segment_discussion": [
+      {
+        "segment_name": "Insurance - Underwriting",
+        "revenue": "$1,892.7 million for the year ended December 31, 2023 compared to $1,734.5 million for the year ended December 31, 2022",
+        "operating_income": "NOT_PROVIDED",
+        "management_commentary": "Underwriting revenues increased $158.2 million or 9.1%. Excluding recent acquisitions, underwriting revenues increased $146.6 million or 8.5% primarily due to an annual increase in prices derived from continued enhancements to the content of the solutions within our forms, rules and loss cost services as well as selling expanded solutions to new and existing customers within underwriting solutions. In addition, extreme events, life insurance, and specialty business solutions contributed to the growth."
+      },
+      {
+        "segment_name": "Insurance - Claims",
+        "revenue": "$788.7 million for the year ended December 31, 2023 compared to $702.5 million for the year ended December 31, 2022",
+        "operating_income": "NOT_PROVIDED",
+        "management_commentary": "Claims revenues increased $86.2 million or 12.3%. Excluding recent acquisitions, claims revenues increased $65.4 million or 9.3%, primarily due to growth in property estimating solutions and anti-fraud solutions."
+      },
+      {
+        "segment_name": "Insurance (Total)",
+        "revenue": "$2,681.4 million for the year ended December 31, 2023 compared to $2,437.0 million for the year ended December 31, 2022",
+        "operating_income": "NOT_PROVIDED",
+        "management_commentary": "Total Insurance revenues increased $244.4 million or 10.0%. Our recent acquisitions (Morning Data within the underwriting category; and Mavera and Krug within the claims category) contributed net revenues of $32.4 million, while the remaining Insurance revenues increased $212.0 million or 8.7%."
+      }
+    ],
+    "margin_commentary": {
+      "gross_margin_discussion": "Cost of revenues for our Insurance segment was $876.5 million for the year ended December 31, 2023 compared to $781.9 million for the year ended December 31, 2022, an increase of $94.6 million or 12.1%. Our recent acquisitions and dispositions represented a net increase of $26.2 million in cost of revenues, which was primarily related to salaries and employee benefits. The remaining increase in cost of revenues of $68.4 million or 8.7% was primarily due to increases in salaries and employee benefits of $51.0 million, which was primarily driven by increase in rent expenses of $6.6 million, bad debt expenses of $3.8 million, travel expenses of $3.6 million, data costs of $1.8 million, and other operating costs of $3.9. These increases were partially offset by decreases in information technology expenses of $2.1 million and professional consulting fees of $0.2 million.",
+      "operating_margin_discussion": "NOT_PROVIDED",
+      "factors_cited_for_margin_changes": [
+        "Increases in salaries and employee benefits of $51.0 million",
+        "Increase in rent expenses of $6.6 million",
+        "Bad debt expenses of $3.8 million",
+        "Travel expenses of $3.6 million",
+        "Data costs of $1.8 million",
+        "Decreases in information technology expenses of $2.1 million",
+        "Professional consulting fees decrease of $0.2 million",
+        "Litigation reserve expense of $38.2 million associated with an indemnification of an ongoing inquiry related to our former Financial Services segment"
+      ]
+    },
+    "pricing_commentary": {
+      "pricing_actions_discussed": true,
+      "details": "Underwriting revenues increased primarily due to an annual increase in prices derived from continued enhancements to the content of the solutions within our forms, rules and loss cost services. In response to rising inflation, carriers are working to reset pricing to fix loss ratios and improve profitability."
+    },
+    "management_emphasized_kpis": [
+      "Revenue growth",
+      "EBITDA growth",
+      "EBITDA margin"
+    ],
+    "liquidity_and_capital_resources": {
+      "cash_position_discussed": "As of December 31, 2023 and 2022, we had cash and cash equivalents and available-for-sale securities totaling $303.9 million and $296.7 million, respectively, inclusive of cash included within assets held for sale. We believe we will have sufficient cash to meet our working capital, human capital and capital expenditure needs, and to fuel our future growth plans. We have historically managed the business with a working capital deficit due to the fact that we offer our solutions and services primarily through annual subscriptions or long-term contracts, which are generally prepaid quarterly or annually in advance of the services being rendered.",
+      "capital_allocation_priorities_stated": [
+        "Share repurchases",
+        "Dividend payments",
+        "Capital expenditures",
+        "Acquisitions"
+      ],
+      "share_repurchase_discussion": "We have historically used a portion of our cash for repurchases of our common stock from our stockholders. The Syndicated Credit Facility may be used for general corporate purposes, including working capital needs and capital expenditures, acquisitions, dividend payments, and the Repurchase Program.",
+      "dividend_discussion": "The Syndicated Credit Facility may be used for general corporate purposes, including working capital needs and capital expenditures, acquisitions, dividend payments, and the Repurchase Program."
+    },
+    "share_repurchase_data": {
+      "shares_repurchased_current_year": "NOT_PROVIDED",
+      "amount_spent_on_repurchases": "$2,762.3 million for the year ended December 31, 2023; $1,662.5 million for the year ended December 31, 2022; and $475.0 million for the year ended December 31, 2021",
+      "remaining_authorization": "NOT_PROVIDED",
+      "source_section": "Liquidity and Capital Resources"
+    },
+    "dividend_data": {
+      "dividends_per_share": "NOT_PROVIDED",
+      "total_dividends_paid": "$196.8 million for the year ended December 31, 2023; $195.2 million for the year ended December 31, 2022; and $188.2 million for the year ended December 31, 2021",
+      "source_section": "Liquidity and Capital Resources"
+    },
+    "capital_expenditure_discussion": {
+      "total_capex_discussed": "$230.0 million for the years ended December 31, 2023 and $274.7 million for the years ended December 31, 2022",
+      "maintenance_vs_growth_split_if_disclosed": "NOT_PROVIDED",
+      "capex_by_segment_if_disclosed": [],
+      "management_capex_outlook": "Expenditures related to developing and enhancing our solutions are predominately related to internal-use software and are capitalized in accordance with ASC 350-40, Accounting for Costs of Computer Software Developed or Obtained for Internal Use. We also capitalize amounts in accordance with ASC 985-20, Software to be Sold, Leased or Otherwise Marketed."
+    },
+    "critical_accounting_estimates": [
+      {
+        "estimate": "Revenue Recognition",
+        "description": "We recognize revenue based on the transfer of promised goods or services to customers for the amount that reflects the consideration to which we expect to be entitled in exchange for those goods or services. Revenue is recognized in a five-step model: 1) identify the contract with a customer; 2) identify the performance obligations in the contract; 3) determine the transaction price; 4) allocate the transaction price to the performance obligations in the contract; and 5) recognize revenue when or as we satisfy a performance obligation. Revenues for hosted subscription services are recognized ratably over the subscription term. Revenues from certain discrete project based advisory/consulting services are recognized over time by measuring the progress toward complete satisfaction of the performance obligation, based on the input method of consulting hours worked; this aligns with the results achieved and value transferred to the customer. Revenues from transactional solutions are recognized as the solutions are delivered or services performed at point in time."
+      },
+      {
+        "estimate": "Stock-Based Compensation",
+        "description": "Stock-based compensation cost, including nonqualified stock options, restricted stock, TSR-based performance share units ("PSUs"), and ROIC-based PSUs, is measured at the grant date, based on the fair value of the awards granted, and is recognized as expense over the requisite service period. The fair value of stock options is measured using a Black-Scholes option-pricing model, which requires the use of several estimates, including expected term, expected risk-free interest rate, expected volatility, and expected dividend yield. The fair value of TSR-based PSUs is determined on the grant date using the Monte Carlo Simulation model and their ultimate achievement is based on relative total shareholder return as compared to the companies that compromise the S&P 500 index. The fair value of ROIC-based PSUs is determined on the closing price of our common stock on the grant date and their ultimate achievement is tied to incremental return on invested capital based on net operating profit."
+      },
+      {
+        "estimate": "Goodwill and Intangibles",
+        "description": "As of December 31, 2023, we had goodwill associated with continuing operations of $1,760.8 million, which represents 40.3% of our total assets. Goodwill and intangible assets with indefinite lives are subject to impairment testing annually as of June 30, or whenever events or changes in circumstances indicate that the carrying amount may not be fully recoverable. When evaluating goodwill for impairment, we may decide to first perform a qualitative assessment, or 'Step Zero' impairment test, to determine whether it is more likely than not that impairment has occurred. We allocate the fair value of the purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired based on their estimated fair values. The excess of the fair value of the purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. Such valuations require management to make significant estimates and assumptions, especially with respect to intangible assets."
+      },
+      {
+        "estimate": "Pension and Postretirement",
+        "description": "Certain assumptions are used in the determination of our annual net period benefit (credit) cost and the disclosure of the funded status of these plans. The principal assumptions concern the discount rate used to measure the projected benefit obligation and the expected return on plan assets. We revise these assumptions based on an annual evaluation of long-term trends and market conditions that may have an impact on the cost of providing retirement benefits. In determining the discount rate, we utilize quoted rates from long-term bond indices, and changes in long-term bond rates over the past year, cash flow models and other data sources we consider reasonable based upon the life expectancy and mortality rate of eligible employees. For our pension plans at December 31, 2023, we determined this rate to be 5.37% and 5.49% at December 31, 2023 and 2022, respectively. Our postretirement rate was 4.75% and 5.25% at December 31, 2023 and 2022, respectively."
+      },
+      {
+        "estimate": "Income Taxes",
+        "description": "In projecting future taxable income, we develop assumptions including the amount of future state, federal and foreign pretax operating income, the reversal of temporary differences, and the implementation of feasible and prudent tax planning strategies. These assumptions require significant judgment about the forecasts of future taxable income and are consistent with the plans and estimates we use to manage the underlying businesses. The calculation of our tax liabilities also involves dealing with uncertainties in the application and evolution of complex tax laws and regulations in other jurisdictions. We account for uncertain tax positions in accordance with Accounting for Uncertainty in Income Taxes — an interpretation of ASC 740, which addresses the determination of whether tax benefits claimed or expected to be claimed on a tax return should be recorded in the financial statements."
+      }
+    ],
+    "forward_looking_statements": [
+      "We believe our solutions for analyzing risk positively impact our clients' revenues and help them better manage their costs.",
+      "We expect to grow our headcount over time to take advantage of our market opportunities, we believe that the economies of scale in our operating model will allow us to grow our personnel expenses at a lower rate than revenues.",
+      "Historically, our EBITDA margin has improved because we have been able to increase revenues without a proportionate corresponding increase in expenses. However, part of our corporate strategy is to invest in new solutions and new businesses, which may offset margin expansion.",
+      "We believe we will have sufficient cash to meet our working capital, human capital and capital expenditure needs, and to fuel our future growth plans.",
+      "We estimate unrecognized tax positions of $0.7 million that may be recognized by December 31, 2024, due to expiration of statutes of limitations and resolution of audits with taxing authorities, net of additional uncertain tax positions.",
+      "For our pension and postretirement plans, the total actuarial losses as of December 31, 2023 that have not been recognized in annual expense are $118.3 million and $3.6 million, respectively, and we expect to recognize a net periodic pension and postretirement expenses of $3.6 million and $0.3 million, respectively, in 2024 related to the amortization of actuarial losses."
+    ]
+  }
+}

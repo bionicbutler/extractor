@@ -1,0 +1,528 @@
+{
+  "metadata": {
+    "source_file": "vrsk20211231_10k.htm",
+    "filing_type": "10-K",
+    "extraction_timestamp": "2026-02-12T10:01:25.289574",
+    "extraction_mode": "per_section",
+    "sections_extracted": [
+      "item1_business",
+      "item8_financials"
+    ],
+    "sections_failed": [
+      "item1a_risk_factors",
+      "item7_mda"
+    ],
+    "validation_warnings": [
+      "Failed to extract sections: item1a_risk_factors, item7_mda",
+      "Risk factors section entirely missing",
+      "MD&A section entirely missing"
+    ]
+  },
+  "business_description": {
+    "source": "Item 1 — Business",
+    "business_model_summary": "Verisk is a leading data analytics provider serving customers in insurance, energy and specialized markets, and financial services. Using advanced technologies to collect and analyze billions of records, we draw on unique data assets and deep domain expertise to provide innovations that may be integrated into customer workflows. We offer predictive analytics and decision support solutions to customers in rating, underwriting, claims, catastrophe and weather risk, natural resources intelligence, economic forecasting, commercial banking and finance, and many other fields.",
+    "revenue_model": "subscription / long-term agreements — We offer our solutions and services primarily through annual subscriptions or long-term agreements, which are typically prepaid and represented over 81% of our revenues in 2021.",
+    "products_and_services": [
+      "Underwriting & rating solutions for P&C insurance (policy language, prospective loss costs, policy writing rules, underwriting solutions for risk selection and segmentation, pricing, workflow optimization across 30 lines of insurance)",
+      "Statistical agent services (collecting and reporting policy writing and loss statistics to insurance regulators in all 50 states, Puerto Rico, and the District of Columbia)",
+      "Actuarial services (sophisticated analyses using predictive models and analytic methods to help P&C insurance customers with pricing, loss reserving, and marketing)",
+      "Property-specific rating and underwriting information (data and analytics on approximately 15.4 million commercial properties in the U.S.)",
+      "Personal underwriting solutions for homeowners and auto lines",
+      "Community firefighting capability evaluations and building code enforcement effectiveness assessments",
+      "Catastrophe modeling (probabilistic models for hurricanes, earthquakes, winter storms, tornadoes, hailstorms, floods in more than 110 countries, pandemics worldwide, terrorism, crop insurance, cyber and casualty lines)",
+      "Weather and climate risk solutions",
+      "International insurance property and casualty data, models, and solutions (U.K., Ireland, Lloyd's and London market, Canada, Continental Europe, Singapore, China, Australia, New Zealand)",
+      "Claims fraud-detection tools and anti-fraud solutions",
+      "All-claims database (contains information for more than 1.5 billion claims)",
+      "Medicare Secondary Payer compliance solutions (reporting, conditional payment processing, Medicare Set-Aside services, medical records extraction)",
+      "Building repair and reconstruction cost estimation solutions",
+      "Virtual claims adjusting tools (real-time video collaboration, remote measuring tools, AI-powered damage assessment, image analytics fraud warnings)",
+      "Claims ecosystem access (weather API, data insights for performance benchmarking)",
+      "Energy and natural resources data analytics (analysis and advice on assets, companies, governments, and markets across global energy, chemicals, metals and mining, power and renewables sectors)",
+      "Research and consulting services for energy sector (capital allocation decisions, asset valuation and benchmarking, commodity markets, corporate analysis)",
+      "Environmental health and safety compliance solutions (manufacturing, distribution, transportation, usage, and disposal of chemicals and products)",
+      "Financial services solutions (competitive benchmarking, decisioning algorithms, business intelligence, customized analytic services to financial institutions, payment networks and processors, alternative lenders, regulators, and merchants)",
+      "Consumer banking and retail product solutions (forecasting and expense tools, regulatory-focused solutions)",
+      "Media effectiveness solutions",
+      "Life and annuity digital solutions (electronic applications, policy administration systems, automated/accelerated triage, underwriting, fraud detection, modeling)"
+    ],
+    "geographic_markets": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "New Zealand",
+      "United Arab Emirates",
+      "Mexico",
+      "India",
+      "Puerto Rico",
+      "Guam",
+      "U.S. Virgin Islands",
+      "District of Columbia",
+      "Ireland",
+      "Continental Europe",
+      "Singapore",
+      "China",
+      "Germany",
+      "Spain",
+      "110+ countries (catastrophe modeling coverage)"
+    ],
+    "seasonality": "NOT_PROVIDED",
+    "key_customers_disclosed": [],
+    "customer_concentration": {
+      "any_customer_above_10pct": false,
+      "details": [
+        "In 2021, our customers included all of the top 100 property and casualty insurance providers in the U.S. for the lines of P&C services we offer",
+        "The top 30 credit card issuers in North America, the United Kingdom, and Australia",
+        "Nine of the top ten global energy producers around the world"
+      ]
+    },
+    "competitive_landscape_as_described": "We believe that no single competitor currently offers the same scope of services and market coverage we provide. The breadth of markets we serve exposes us to a broad range of competitors... In the Insurance segment: competitors include insurers that develop internal technology and actuarial methods for proprietary insurance programs; other statistical agents such as the National Independent Statistical Service, the Independent Statistical Service, Inc.; advisory organizations including the American Association of Insurance Services, Inc. and Mutual Services Organization; regional providers of commercial property inspections and surveys including Overland Solutions, Inc., and Regional Reporting, Inc.; emerging providers in the InsurTech space; consulting services firms; information technology product and services vendors; management and strategy consulting firms; smaller specialized information technology and analytical services firms including Pinnacle Consulting and EMB (a unit of Willis Towers Watson); Lexis Nexis and Core Logic for underwriting products; Accenture, Oracle, DXC, Majesco and iPipeline in life insurance; Risk Management Solutions (catastrophe modeling), CoreLogic (repair cost estimating), LexisNexis Risk Solutions (claims investigative reports), SAS (claims fraud analytics), and Enlyte (injury claims analytics) in P&C insurance claims and catastrophe modeling. In Energy and Specialized Markets: IHS Markit (natural resources), Rystad Energy (upstream), Enverus (upstream), Energy Aspects (commodities), CRU Group (metals), and Bloomberg New Energy Finance (power and renewables). In Financial Services: EverCompliant, WebShield, Trustwave, LegitScript, Lexis Nexis, American Infosource, and Phin Solutions; no direct competitors for unique datasets and wallet solutions, with partnerships with card networks and credit bureaus.",
+    "regulatory_environment": "Because our business involves the distribution of certain personal, public, and nonpublic data to businesses and governmental entities that make eligibility, service, and marketing decisions based on such data, certain of our solutions and services are subject to regulation under federal, state, and local laws in the U.S. and, to a lesser extent, in foreign countries. Examples of such regulation include the Fair Credit Reporting Act, which regulates the use of consumer credit report information; the Gramm-Leach-Bliley Act, which regulates the use of nonpublic personal financial information held by financial institutions and applies indirectly to companies that provide services to financial institutions; the Drivers Privacy Protection Act, which prohibits the public disclosure, use, or resale by any state's department of motor vehicles of personal information about an individual that was obtained by the department in connection with a motor vehicle record, except for a 'permissible purpose'; and various other federal, state, and local laws and regulations. Those laws generally restrict the use and disclosure of personal information and provide consumers certain rights to know the manner in which their personal information is being used, to challenge the accuracy of such information, and/or to prevent the use and disclosure of such information. In certain instances, the laws also impose requirements for safeguarding personal information through the issuance of data security standards or guidelines. Certain state laws impose similar privacy obligations as well as obligations to provide notification of security breaches in certain circumstances. We are also licensed as a rating, rate service, advisory, or statistical organization under state insurance codes in all 50 states, Puerto Rico, Guam, the U.S. Virgin Islands, and the District of Columbia. As such an advisory organization, we provide statistical, actuarial, policy language development, and related products and services to P&C insurers, including advisory prospective loss costs, other prospective cost information, manual rules, and policy language. We also serve as an officially designated statistical agent of state insurance regulators to collect policy writing and loss statistics of individual insurers and compile that information into reports used by the regulators. Many of our products, services, and operations as well as insurers' use of our services are subject to state rather than federal regulation by virtue of the McCarran-Ferguson Act. As a result, many of our operations and products are subject to review and/or approval by state regulators. Further, our operations involving licensed advisory organization activities are subject to periodic examinations conducted by state regulators; and our operations and products are subject to state antitrust and trade practice statutes within or outside state insurance codes, which are typically enforced by state attorneys general and/or insurance regulators.",
+    "employees": {
+      "total": 9367,
+      "breakdown_if_provided": "Approximately 64% of our employees are based in the United States, 15% in the United Kingdom, 7% in India, with the remainder serving in 35 other countries across the globe. None of our employees are represented by unions or subject to collective bargaining agreements, other than a small number of employees in Germany who are represented by a works council."
+    },
+    "competitive_advantage_evidence": {
+      "switching_costs": {
+        "evidence_found": true,
+        "supporting_text": [
+          "We believe that our commitment to our customers and the embedded nature of our solutions serve to strengthen and extend our relationships.",
+          "Deep Integration into Customer Workflows - By embedding our solutions into customer workflows, we help our customers better manage risk and optimize their bottom line. We achieve this goal by remaining closely connected to our customers at all times and serving their distinct needs.",
+          "Standardized coverage language, which has been tested in litigation and tailored to reflect judicial interpretation, helps ensure consistent treatment of claimants. As a result, our industry-standard language also simplifies claim settlements and can reduce the occurrence of costly litigation because our language causes the meaning of coverage terminology to become established and known.",
+          "We expect to expand the application of our solutions in customers' internal processes. Building on our deep knowledge of and embedded position in, various industries, we expect to sell more solutions to existing customers tailored to individual market segments. By increasing the breadth and relevance of our offerings, we believe that we can strengthen our relationships with customers and increase our value to their decision making in critical ways.",
+          "We generally own, or have secured ongoing rights to use for the purposes of our business, all the customer-facing applications that are material to our operations.",
+          "To maintain control of our intellectual property, we enter into contractual agreements with our customers, granting each customer permission to use our products and services, including our software and databases."
+        ],
+        "source_sections": [
+          "Our Company - business model description",
+          "Our Distinctives",
+          "Underwriting & rating",
+          "Our Growth Strategy",
+          "Information Technology - Technology",
+          "Intellectual Property"
+        ]
+      },
+      "brand_mindshare": {
+        "evidence_found": true,
+        "supporting_text": [
+          "We are the recognized leader in the U.S. for industry-standard insurance programs that help P&C insurers define coverages and issue policies.",
+          "Nearly every property insurer in the U.S. uses our evaluations of community firefighting capabilities to help determine premiums for fire insurance throughout the country.",
+          "We are a leader in and pioneered the field of probabilistic catastrophe modeling used by insurers, reinsurers, financial institutions, and government to manage their risk from extreme events.",
+          "We are a leading provider of fraud-detection tools for the P&C insurance industry.",
+          "We are a leading provider of innovative solutions for the personal underwriting markets, including homeowners and auto lines.",
+          "We are a leading provider of data analytics across the natural resources value chain including the global energy, chemicals, metals and mining, and power and renewables sectors.",
+          "Steady Stream of First-to-Market Innovations - We move quickly to be the first to market with new solutions. Typically, the marketplace assumes that those who are first to market are superior to the competition and better positioned to succeed.",
+          "We also own in excess of 500 trademarks in the U.S. and foreign countries, including the names of our products and services and our logos and tag lines, many of which are registered. We believe many of our trademarks, trade names, service marks, and logos to be of material importance to our business, as they assist our customers in identifying our products and services and the quality that stands behind them."
+        ],
+        "source_sections": [
+          "Underwriting & rating",
+          "Claims",
+          "Energy and Specialized Markets Segment",
+          "Our Distinctives",
+          "Intellectual Property"
+        ]
+      },
+      "cost_scale_advantages": {
+        "evidence_found": true,
+        "supporting_text": [
+          "With these policy programs, insurers also benefit from economies of scale. We have more than 195 specialized lawyers and insurance experts reviewing changes in each state's insurance rules and regulations, including an average of approximately 13,200 legislative actions, 8,500 regulatory actions, and 2,000 court decisions per year, to make any required changes to our policy language and rating information.",
+          "We are able to capture significant economies of scale given the level of penetration of this service within the U.S. P&C insurance industry.",
+          "Using our large database of premium and loss data, our actuaries are able to perform sophisticated analyses using our predictive models and analytic methods to help our P&C insurance customers with pricing, loss reserving, and marketing... We project customers' future losses and loss expenses using a broad set of data. Those projections tend to be more reliable than if our customers used their own data exclusively.",
+          "We estimate that more than 80% of insurance repair contractors and service providers in the U.S. and Canada with computerized estimating systems use our building and repair pricing data. This large percentage leads to accurate reporting of pricing information, which we believe is unmatched in the industry."
+        ],
+        "source_sections": [
+          "Underwriting & rating",
+          "Claims"
+        ]
+      },
+      "network_effects": {
+        "evidence_found": true,
+        "supporting_text": [
+          "We estimate that more than 80% of insurance repair contractors and service providers in the U.S. and Canada with computerized estimating systems use our building and repair pricing data. This large percentage leads to accurate reporting of pricing information, which we believe is unmatched in the industry.",
+          "Our claims database serves thousands of customers, representing approximately 90% of the P&C insurance industry by premium volume, more than 500 self-insurers, approximately 400 third party administrators, several state fraud bureaus, and many law enforcement agencies involved in the investigation and prosecution of insurance fraud.",
+          "The benefits of a single all-claims database include improved efficiency in reporting data and searching for information, enhanced capabilities for detecting suspicious claims, and superior information for investigating fraudulent claims, suspicious individuals, and possible fraud rings. Our database also helps insurers fulfill their regulatory compliance reporting requirements at both the state and federal levels for delinquent child support liens and other required checks. The database contains information for more than 1.5 billion claims and is the world's largest database of P&C claims information used for claims processing and investigations. Insurers and other participants submit more than 175,000 new claims a day on average across all U.S. P&C insurance industry categories.",
+          "Over the past five decades, we have developed core expertise in acquiring, processing, managing, protecting, and operating large and comprehensive databases that are the foundation of our insurance offerings. We use our proprietary technology to assemble, organize, and update vast amounts of detailed information submitted by our customers. We supplement this data with publicly available information. In 2021 alone, P&C insurers sent us approximately 2.6 billion detailed individual records of insurance transactions, such as insurance premiums collected or losses incurred. We maintain a database of more than 29.7 billion statistical records, including approximately 8.2 billion commercial lines records and approximately 21.5 billion personal lines records."
+        ],
+        "source_sections": [
+          "Claims",
+          "Underwriting & rating"
+        ]
+      },
+      "regulatory_licensing_barriers": {
+        "evidence_found": true,
+        "supporting_text": [
+          "We are also licensed as a rating, rate service, advisory, or statistical organization under state insurance codes in all 50 states, Puerto Rico, Guam, the U.S. Virgin Islands, and the District of Columbia. As such an advisory organization, we provide statistical, actuarial, policy language development, and related products and services to P&C insurers, including advisory prospective loss costs, other prospective cost information, manual rules, and policy language. We also serve as an officially designated statistical agent of state insurance regulators to collect policy writing and loss statistics of individual insurers and compile that information into reports used by the regulators.",
+          "Many of our products, services, and operations as well as insurers' use of our services are subject to state rather than federal regulation by virtue of the McCarran-Ferguson Act. As a result, many of our operations and products are subject to review and/or approval by state regulators. Further, our operations involving licensed advisory organization activities are subject to periodic examinations conducted by state regulators.",
+          "Insurance companies need to ensure that their policy language, rules, and rates comply with all applicable legal and regulatory requirements. They must also make sure their policies remain competitive by promptly changing coverages in response to changes in statutes, case law, or regulatory requirements. To meet our insurers' needs, we process approximately 2,300 regulatory filings and interface with state regulators in all 50 states plus the District of Columbia, Guam, Puerto Rico, and the Virgin Islands each year to ensure smooth implementation of our rules and forms.",
+          "The P&C insurance industry is heavily regulated in the U.S.: P&C insurers are required to collect statistical data about their premiums and losses and to report that data to regulators in every state in which they operate. Our statistical agent services have enabled P&C insurers to meet those regulatory requirements for more than 50 years. We aggregate the data, and as a licensed or appointed 'statistical agent' in all 50 states, Puerto Rico, and the District of Columbia, we report those statistics to insurance regulators."
+        ],
+        "source_sections": [
+          "Regulation",
+          "Underwriting & rating"
+        ]
+      }
+    },
+    "revenue_durability_indicators": {
+      "recurring_revenue_disclosed": true,
+      "recurring_revenue_percentage_if_stated": "over 81% of our revenues in 2021",
+      "contract_terms_disclosed": "We offer our solutions and services primarily through annual subscriptions or long-term agreements, which are typically prepaid",
+      "renewal_rates_disclosed": "NOT_PROVIDED",
+      "backlog_or_remaining_performance_obligations": "NOT_PROVIDED",
+      "long_term_customer_agreements_mentioned": true,
+      "details": "We offer our solutions and services primarily through annual subscriptions or long-term agreements, which are typically prepaid and represented over 81% of our revenues in 2021. Customers use our solutions to make better decisions about risk and opportunities with greater efficiency and discipline. A substantial majority of P&C insurance providers in the U.S. use our statistical agent services to report to regulators, and the majority of insurers and reinsurers in the U.S. use our actuarial services and industry-standard insurance programs."
+    }
+  },
+  "risk_factors": "NOT_PROVIDED",
+  "mda": "NOT_PROVIDED",
+  "financial_statements_and_notes": {
+    "source": "Item 8 — Financial Statements and Supplementary Data",
+    "revenue_recognition": {
+      "policy_summary": "Verisk recognizes revenues through recurring and non-recurring long-term agreements (generally one to five years) for hosted subscriptions, advisory/consulting services, and transactional solutions. Revenue is recognized when control of the promised services is transferred to customers in an amount that reflects the consideration expected. Hosted subscriptions are recognized ratably over the subscription period on a straight-line basis, as continuous access to online portals and updated content is provided.",
+      "verbatim_key_language": "We recognize revenues through recurring and non-recurring long-term agreements (generally one to five years) for hosted subscriptions, advisory/consulting services, and for transactional solutions. Each of our reportable segments, Insurance, Energy and Specialized Markets, and Financial Services, has a portion of its revenue from more than one of these revenue types. Our revenues are primarily derived from the sale of services where revenue is recognized when control of the promised services is transferred to customers in an amount that reflects the consideration that we expect to be entitled to in exchange for those services. Fees for services provided by us are non-refundable. Revenue is recognized net of applicable sales tax withholdings. Hosted Subscription is a single performance obligation that represents a series of distinct services (daily access to our online portal and related content) that are substantially the same and that have the same pattern of transfer to our customer. We recognize revenue for Hosted Subscriptions ratably over the subscription period on a straight-line basis as services are performed and continuous access to information in our online portal is provided over the entire term of the agreements.",
+      "performance_obligations_description": "For hosted subscriptions, the performance obligation is a single performance obligation representing a series of distinct services (daily access to online portal and related content) that are substantially the same with the same pattern of transfer. For hosted subscriptions with disk drive/download, the online portal and software content are highly interdependent and interrelated, representing a single performance obligation. Advisory/consulting services are recognized over time using the input method of consulting hours worked. Transactional solutions are recognized at a point in time as solutions are delivered or services performed.",
+      "note_reference": "Note 2 (b)"
+    },
+    "debt_and_borrowings": {
+      "total_long_term_debt": "$2,342.8 million",
+      "total_short_term_debt": "$971.3 million",
+      "instruments": [
+        {
+          "description": "4.125% senior notes due September 12, 2022",
+          "principal_amount": "$350.0 million",
+          "interest_rate": "4.125%",
+          "maturity_date": "September 12, 2022",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "5.800% senior notes due May 1, 2021",
+          "principal_amount": "$450.0 million",
+          "interest_rate": "5.800%",
+          "maturity_date": "May 1, 2021",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "3.625% senior notes due May 15, 2050",
+          "principal_amount": "$500.0 million",
+          "interest_rate": "3.625%",
+          "maturity_date": "May 15, 2050",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "4.125% senior notes due March 15, 2029",
+          "principal_amount": "$600.0 million",
+          "interest_rate": "4.125%",
+          "maturity_date": "March 15, 2029",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "4.000% senior notes due June 15, 2025",
+          "principal_amount": "$900.0 million",
+          "interest_rate": "4.000%",
+          "maturity_date": "June 15, 2025",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "5.500% senior notes due June 15, 2045",
+          "principal_amount": "$350.0 million",
+          "interest_rate": "5.500%",
+          "maturity_date": "June 15, 2045",
+          "covenants_noted": "NOT_PROVIDED"
+        }
+      ],
+      "maturity_schedule": [
+        {
+          "year": "2022",
+          "amount": "$971.7 million"
+        },
+        {
+          "year": "2023",
+          "amount": "$1.3 million"
+        },
+        {
+          "year": "2024",
+          "amount": "$0.4 million"
+        },
+        {
+          "year": "2025",
+          "amount": "$900.1 million"
+        },
+        {
+          "year": "2026",
+          "amount": "$0 million"
+        },
+        {
+          "year": "2027 and thereafter",
+          "amount": "$1,450.0 million"
+        }
+      ],
+      "credit_facility": {
+        "total_capacity": "$1,000.0 million",
+        "drawn_amount": "$610.0 million",
+        "available": "$384.9 million",
+        "expiration": "NOT_PROVIDED",
+        "key_covenants": [
+          "consolidated funded debt leverage ratio of less than 3.5 to 1.0",
+          "at our election, the maximum consolidated funded debt leverage ratio could be permitted to increase one time each to 4.0 to 1.0 and 4.25 to 1.0"
+        ]
+      },
+      "note_reference": "Note 15"
+    },
+    "lease_obligations": {
+      "operating_lease_liability_total": "$295.9 million",
+      "finance_lease_liability_total": "$13.3 million",
+      "operating_lease_rou_asset": "$253.1 million",
+      "maturity_schedule_if_provided": [
+        {
+          "year": "2022",
+          "amount": "$51.5 million"
+        },
+        {
+          "year": "2023",
+          "amount": "$48.9 million"
+        },
+        {
+          "year": "2024",
+          "amount": "$40.0 million"
+        },
+        {
+          "year": "2025",
+          "amount": "$35.4 million"
+        },
+        {
+          "year": "2026",
+          "amount": "$30.3 million"
+        },
+        {
+          "year": "2027 and thereafter",
+          "amount": "$145.8 million"
+        }
+      ],
+      "note_reference": "Note 8"
+    },
+    "goodwill_and_intangibles": {
+      "goodwill_balance": "$4,331.2 million",
+      "total_intangibles": "$1,225.9 million",
+      "goodwill_by_segment_if_provided": [
+        {
+          "segment": "Insurance",
+          "amount": "$1,454.8 million"
+        },
+        {
+          "segment": "Energy and Specialized Markets",
+          "amount": "$2,401.0 million"
+        },
+        {
+          "segment": "Financial Services",
+          "amount": "$475.4 million"
+        }
+      ],
+      "impairment_charges_current_year": "$134.0 million",
+      "impairment_history": [
+        {
+          "year": "2021",
+          "amount": "$134.0 million",
+          "description": "Impairment to long-lived assets in Financial Services reporting unit including $88.2 million to intangible assets and $45.8 million to fixed assets, based on weaker than expected operating performance as a result of changing market conditions. Analysis of fair value based on indication of fair value provided by the offer to purchase such reporting unit, approved by Board of Directors on February 16, 2022."
+        }
+      ],
+      "impairment_testing_methodology": "The company completed the required annual impairment test as of June 30, 2021, which compares the carrying value of each reporting unit to its fair value using the discounted cash flow model and the market approach. The discounted cash flow model requires significant estimates and assumptions related to forecasts of future revenues, EBITDA margins, and the discount rate. The market approach requires significant estimates and assumptions related to the selection of revenue and EBITDA multiples. As of December 31, 2021, a triggering event for the Financial Services reporting unit resulted in a long-lived asset impairment test. Fair value of long-lived assets was based on the indication of fair value provided by the offer to purchase such reporting unit. Discount rate not explicitly disclosed in impairment testing methodology text.",
+      "note_reference": "Note 12"
+    },
+    "contractual_obligations": {
+      "table_provided": false,
+      "obligations": [],
+      "source_location": "NOT_PROVIDED"
+    },
+    "pension_and_postretirement": {
+      "has_defined_benefit_plan": true,
+      "funded_status": "$114.5 million underfunded for Pension Plan and SERP; $3.5 million underfunded for Postretirement Plan",
+      "benefit_obligation": "$431.7 million for Pension Plan and SERP; $6.0 million for Postretirement Plan",
+      "plan_assets": "$546.2 million for Pension Plan and SERP; $9.5 million for Postretirement Plan",
+      "note_reference": "Note 18"
+    },
+    "contingencies_and_litigation": {
+      "material_matters_disclosed": [
+        {
+          "description": "Xactware Solutions, Inc. Patent Litigation - lawsuit alleging patent infringement related to Roof InSight, Property InSight and Aerial Sketch products in combination with Xactimate product",
+          "status": "settled",
+          "potential_exposure_if_stated": "Jury awarded $125.0 million; Court trebled award to $375.0 million plus pre-judgment and post-judgment interest",
+          "accrual_recorded": "$125.0 million"
+        },
+        {
+          "description": "ERISA Litigation - class action alleging violations of ERISA related to excessive fees in 401(k) plan",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "millions of dollars (unspecified)",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "Jornaya Litigation - putative class action alleging violation of Pennsylvania Wiretap Act by intercepting electronic communications on website colleges.educationgrant.com",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "actual damages or liquidated damages computed at $100 a day for each day of violation, or $1,000, whichever is higher, plus punitive damages and attorneys' fees",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "Financial Services Government Inquiry - inquiry by civil division of US Attorney's Office for Eastern District of Virginia related to government contracts within financial services segment",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "NOT_PROVIDED",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "Breach of Contract Litigation (Leica Geosystems) - lawsuit alleging breach of master lease agreement, license agreement for royalties, and mutual nondisclosure agreement related to aerial sensor units and aerial imagery data",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "compensatory and punitive damages plus attorney's fees and costs (unspecified amounts)",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "Wood Mackenzie Litigation - lawsuit alleging breach of licensing agreement related to use of Platts' data",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "actual damages plus attorney's fees and costs plus injunctive relief (unspecified amounts)",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "Data Privacy Litigation (Cantinieri) - putative class action alleging failure to safeguard PII from purported data breach",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "compensatory, statutory and punitive damages, disgorgement of earnings and profits, attorney's fees and costs (unspecified amounts)",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "LCI Litigation (Brooks) - consumer class action alleging violations of Fair Credit Reporting Act, California Consumer Credit Reporting Agencies Act, California Unfair Competition Law, and Defamation related to inaccurate bankruptcy reporting",
+          "status": "pending",
+          "potential_exposure_if_stated": "actual and punitive damages, restitution, injunctive relief, attorney's fees and costs (unspecified amounts)",
+          "accrual_recorded": "NOT_PROVIDED"
+        }
+      ],
+      "note_reference": "Note 21"
+    },
+    "segment_financial_data": {
+      "number_of_segments": 3,
+      "segments": [
+        {
+          "name": "Insurance",
+          "revenue": "$2,206.9 million",
+          "operating_income": "NOT_PROVIDED",
+          "total_assets": "NOT_PROVIDED",
+          "depreciation_amortization": "NOT_PROVIDED",
+          "capital_expenditures": "NOT_PROVIDED"
+        },
+        {
+          "name": "Energy and Specialized Markets",
+          "revenue": "$648.9 million",
+          "operating_income": "NOT_PROVIDED",
+          "total_assets": "NOT_PROVIDED",
+          "depreciation_amortization": "NOT_PROVIDED",
+          "capital_expenditures": "NOT_PROVIDED"
+        },
+        {
+          "name": "Financial Services",
+          "revenue": "$142.8 million",
+          "operating_income": "NOT_PROVIDED",
+          "total_assets": "NOT_PROVIDED",
+          "depreciation_amortization": "NOT_PROVIDED",
+          "capital_expenditures": "NOT_PROVIDED"
+        }
+      ],
+      "note_reference": "Note 19"
+    },
+    "customer_concentration_from_notes": {
+      "any_customer_above_10pct": false,
+      "details": [
+        "Top fifty customers represent approximately 32% of revenues for 2021 and 33% for 2020 and 2019, respectively",
+        "No individual customer accounting for more than approximately 3% of revenues for the years ended December 31, 2021, 2020, and 2019",
+        "No individual customer comprised more than approximately 4% and 2% of accounts receivable as of December 31, 2021 and 2020, respectively"
+      ],
+      "note_reference": "Note 5"
+    },
+    "stock_based_compensation": {
+      "total_expense_current_year": "$55.7 million",
+      "by_type_if_disclosed": {
+        "stock_options": "NOT_PROVIDED",
+        "rsus": "NOT_PROVIDED",
+        "psus": "NOT_PROVIDED",
+        "espp": "NOT_PROVIDED"
+      },
+      "note_reference": "Note 17"
+    },
+    "acquisitions_current_year": [
+      {
+        "target": "ACTINEO GmbH",
+        "date": "December 23, 2021",
+        "purchase_price": "$148.9 million",
+        "goodwill_recognized": "$121.9 million",
+        "intangibles_recognized": "$48.3 million",
+        "description": "Acquisition of approximately 96.7 percent of the stock of ACTINEO, which offers a comprehensive portfolio of services, technology and data solutions to support the entire bodily injury settlement process. ACTINEO is part of the claims vertical within the Insurance segment."
+      },
+      {
+        "target": "Data Driven Safety, LLC",
+        "date": "November 2, 2021",
+        "purchase_price": "$93.5 million",
+        "goodwill_recognized": "$73.7 million",
+        "intangibles_recognized": "$42.1 million",
+        "description": "Acquisition of 100 percent of the stock of Data Driven Safety, a leading public record data aggregation firm that specializes in driver risk assessment in the U.S. Data Driven Safety has become a part of the underwriting & rating category within the Insurance segment. This acquisition expands robust auto insurance analytics, providing insurers with information to further refine underwriting, improve the customer experience and promote public safety."
+      },
+      {
+        "target": "Ignite Software Systems Limited",
+        "date": "September 1, 2021",
+        "purchase_price": "$13.8 million",
+        "goodwill_recognized": "Included in Others: $61.5 million total for multiple acquisitions",
+        "intangibles_recognized": "Included in Others: $25.3 million total for multiple acquisitions",
+        "description": "Acquisition of 100 percent of the stock of Ignite, a provider of insurance policy administration systems to brokers, managing general agents, and insurers. Ignite has become a part of the underwriting & rating category within the Insurance segment. This acquisition provides new and existing clients with access to a broader expert advice and service."
+      },
+      {
+        "target": "Roskill Holdings Limited",
+        "date": "June 17, 2021",
+        "purchase_price": "$22.1 million",
+        "goodwill_recognized": "Included in Others: $61.5 million total for multiple acquisitions",
+        "intangibles_recognized": "Included in Others: $25.3 million total for multiple acquisitions",
+        "description": "Acquisition of 100 percent of the stock of Roskill, a provider of metals and materials supply chain intelligence. Roskill has become part of the Energy and Specialized Markets segment. This acquisition reinforces the company's ability to provide comprehensive analysis across the energy, and metals and mining value chain while adding analysis, data, and insight on battery raw materials metals."
+      },
+      {
+        "target": "Whitespace Software Limited",
+        "date": "March 2, 2021",
+        "purchase_price": "$16.8 million",
+        "goodwill_recognized": "Included in Others: $61.5 million total for multiple acquisitions",
+        "intangibles_recognized": "Included in Others: $25.3 million total for multiple acquisitions",
+        "description": "Acquisition of 51.0 percent ownership in Whitespace, a provider of digital placing technology to the (re)insurance market. The remaining 49.0 percent ownership interest will be acquired in three equal proportions over the next three years. Whitespace has become part of the underwriting & rating category within the Insurance segment. This investment enables a seamless real-time quote-to-bind electronic placing and global distribution solution."
+      }
+    ],
+    "acquisition_related_charges": [
+      {
+        "description": "Transaction costs related to acquisitions",
+        "amount": "$2.8 million",
+        "type": "transaction_costs",
+        "related_acquisition_if_identifiable": "2021 acquisitions",
+        "source_section": "Note 10"
+      }
+    ],
+    "divestitures_current_year": [
+      {
+        "description": "Sale of aerial imagery sourcing group; contributed assets and cash of $63.8 million in exchange for 35.0% ownership in Vexcel Group, Inc.",
+        "date": "February 1, 2020",
+        "proceeds": "NOT_PROVIDED",
+        "gain_loss": "$0 million (contributed assets approximated fair value of equity securities)"
+      },
+      {
+        "description": "Sale of compliance background screening business",
+        "date": "February 14, 2020",
+        "proceeds": "$23.1 million",
+        "gain_loss": "$15.9 million gain"
+      },
+      {
+        "description": "Sale of data warehouse business within Financial Services segment",
+        "date": "March 1, 2020",
+        "proceeds": "NOT_PROVIDED",
+        "gain_loss": "$3.5 million gain"
+      }
+    ],
+    "restructuring_charges": {
+      "amount": "NOT_PROVIDED",
+      "description": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "related_party_transactions": {
+      "any_disclosed": false,
+      "details": "The company considers stockholders that own more than 5% of the outstanding stock within the class to be related parties. There were no material transactions with related parties owning more than 5% of the entire class of stock for the years ended December 31, 2021 and 2020. In addition, there were no revenues from related parties for the years ended December 31, 2021, 2020, and 2019.",
+      "note_reference": "Note 20"
+    },
+    "subsequent_events": "In December 2021, the company entered into an additional ASR agreement with Citibank, N.A. to repurchase shares of common stock for $100.0 million. Upon payment on January 4, 2022, the company received initial delivery of 360,913 shares. Upon final settlement in February 2022, the company received an additional 141,766 shares. On January 12, 2022, the Board of Directors approved the action to make the environmental health and safety business within the Energy & Specialized Markets segment available for immediate sale at its current fair value. On January 21, 2022, the company entered into a stock purchase agreement to sell 3E Company Environmental, Ecological and Engineering in exchange for a potential aggregate cash consideration of up to $950.0 million. In January 2022, the company granted 608,895 nonqualified stock options, 130,555 shares of restricted stock, and 74,887 PSUs to key employees. On February 11, 2022, the company acquired 100 percent of the membership interest of Infutor Data Solutions, LLC for an aggregate net cash consideration of $223.5 million, plus a contingent earn-out payment of up to $25.0 million. On February 16, 2022, the Board of Directors approved a cash dividend of $0.31 per share payable on March 31, 2022, and an additional share repurchase authorization of $1,000.0 million. On February 16, 2022, the Board of Directors approved the action to make the financial services business available for immediate sale. On February 21, 2022, the company entered into a stock purchase agreement to sell the financial services business to TransUnion for $515.0 million in cash consideration."
+  }
+}

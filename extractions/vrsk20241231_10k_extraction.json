@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "source_file": "vrsk20241231_10k.htm",
+    "filing_type": "10-K",
+    "extraction_timestamp": "2026-02-12T10:07:50.213944",
+    "extraction_mode": "per_section",
+    "sections_extracted": [
+      "item1a_risk_factors",
+      "item7_mda",
+      "item1_business",
+      "item8_financials"
+    ],
+    "sections_failed": [],
+    "validation_warnings": [
+      "No key performance drivers extracted from MD&A",
+      "No known trends and uncertainties extracted — this is a required SEC disclosure",
+      "No management-emphasized KPIs extracted from MD&A",
+      "Share repurchase dollar amount not extracted — verify if company has buyback program",
+      "Total capex figure not extracted from MD&A — check Liquidity and Capital Resources section",
+      "No debt maturity schedule extracted — critical for balance sheet assessment",
+      "Revenue recognition verbatim language not extracted — this should always be present",
+      "Goodwill balance not extracted — verify if company has goodwill"
+    ]
+  },
+  "business_description": {
+    "source": "Item 1 — Business",
+    "business_model_summary": "Our clients use our solutions to make better decisions about risk and opportunities with greater efficiency and discipline. We refer to these products and services as \"solutions\" due to the integration among our services and the flexibility that enables our clients to purchase components or the comprehensive package. These solutions take various forms, including data, statistical models, or tailored analytics, all designed to allow our clients to make more logical decisions.",
+    "revenue_model": "mixed — subscriptions, transactional, and advisory/consulting",
+    "products_and_services": [
+      "Hosted subscriptions for standardized coverage language, claims fraud database, actuarial services",
+      "Advisory/consulting services",
+      "Property-specific rating and underwriting information",
+      "P&C insurance and workers' compensation claim comparison solutions",
+      "Repair cost estimation solutions",
+      "Catastrophe modeling and catastrophe loss information",
+      "Underwriting and claims solutions",
+      "Anti-fraud solutions",
+      "Property estimating solutions",
+      "Forms, rules and loss cost services",
+      "Extreme event solutions",
+      "Underwriting data and analytic solutions",
+      "Specialty business solutions",
+      "Marketing Solutions offerings",
+      "Auto underwriting solutions"
+    ],
+    "geographic_markets": [
+      "United States",
+      "Germany",
+      "Austria",
+      "Europe",
+      "United Kingdom",
+      "Caribbean",
+      "Gulf of Mexico",
+      "North Carolina",
+      "California"
+    ],
+    "seasonality": "In general, we experience minimal revenue seasonality within the business. As a result, the timing of our cash flows generally precedes our recognition of revenues and income and our cash flow from operations tends to be higher in the first quarter as we receive subscription payments.",
+    "key_customers_disclosed": [],
+    "customer_concentration": {
+      "any_customer_above_10pct": false,
+      "details": []
+    },
+    "competitive_landscape_as_described": "NOT_PROVIDED",
+    "regulatory_environment": "NOT_PROVIDED",
+    "employees": {
+      "total": null,
+      "breakdown_if_provided": "NOT_PROVIDED"
+    },
+    "competitive_advantage_evidence": {
+      "switching_costs": {
+        "evidence_found": true,
+        "supporting_text": [
+          "Subscriptions for our solutions are generally paid in advance of rendering services either quarterly or in full upon commencement of the subscription period, which is usually for one to five years and automatically renewed each year.",
+          "We refer to these products and services as \"solutions\" due to the integration among our services and the flexibility that enables our clients to purchase components or the comprehensive package."
+        ],
+        "source_sections": [
+          "Executive Summary - Revenues",
+          "Item 1 - Business"
+        ]
+      },
+      "brand_mindshare": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      },
+      "cost_scale_advantages": {
+        "evidence_found": true,
+        "supporting_text": [
+          "While we expect to grow our headcount over time to take advantage of our market opportunities, we believe that the economies of scale in our operating model will allow us to grow our personnel expenses at a lower rate than revenues.",
+          "Historically, our EBITDA margin has improved because we have been able to increase revenues without a proportionate corresponding increase in expenses."
+        ],
+        "source_sections": [
+          "Principal Operating Costs and Expenses"
+        ]
+      },
+      "network_effects": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      },
+      "regulatory_licensing_barriers": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      }
+    },
+    "revenue_durability_indicators": {
+      "recurring_revenue_disclosed": true,
+      "recurring_revenue_percentage_if_stated": "Approximately 81% and 80% of the revenues in our Insurance segment for the years ended December 31, 2024 and 2023, respectively, were derived from hosted subscriptions through agreements for our solutions, respectively.",
+      "contract_terms_disclosed": "Subscriptions for our solutions are generally paid in advance of rendering services either quarterly or in full upon commencement of the subscription period, which is usually for one to five years and automatically renewed each year.",
+      "renewal_rates_disclosed": "NOT_PROVIDED",
+      "backlog_or_remaining_performance_obligations": "NOT_PROVIDED",
+      "long_term_customer_agreements_mentioned": true,
+      "details": "Subscriptions are automatically renewed at the beginning of each calendar year. We offer our solutions and services primarily through annual subscriptions or long-term contracts, which are generally prepaid quarterly or annually in advance of the services being rendered."
+    }
+  },
+  "risk_factors": {
+    "source": "Item 1A — Risk Factors",
+    "total_risk_factors_count": 28,
+    "risks": [
+      {
+        "rank_order": 1,
+        "heading": "We are subject to competition in many of the markets in which we operate and we may not be able to compete effectively.",
+        "summary": "The company faces intense competition in highly competitive markets, competing on quality, customer service, product selection, and pricing. Larger competitors may allocate greater resources to market segments, potentially allowing them to better anticipate and respond to market changes.",
+        "verbatim_key_sentence": "If we fail to successfully compete, our business, financial position and results of operations may be adversely affected.",
+        "category": "competitive"
+      },
+      {
+        "rank_order": 2,
+        "heading": "To the extent the availability of free or relatively inexpensive information increases, the demand for some of our solutions may decrease.",
+        "summary": "Public sources of free or inexpensive information, particularly through the Internet and governmental agencies, have become increasingly available. This trend may reduce demand for the company's solutions as customers opt for lower-cost alternatives.",
+        "verbatim_key_sentence": "To the extent that customers choose not to obtain solutions from us and instead rely on information obtained at little or no cost from these public sources, our business and results of operations may be adversely affected.",
+        "category": "competitive"
+      },
+      {
+        "rank_order": 3,
+        "heading": "If we are unable to develop successful new solutions or if we experience defects, failures and delays associated with the introduction of new solutions, our business could suffer serious harm.",
+        "summary": "Growth and success depend on the ability to develop and sell new solutions. Inability to develop new solutions, obtain regulatory approval, or delays and defects in new solutions may affect market acceptance and harm the business.",
+        "verbatim_key_sentence": "Errors or defects in our solutions that are significant, or are perceived to be significant, could result in rejection of our solutions, damage to our reputation, loss of revenues, diversion of development resources, an increase in product liability claims, and increases in service and support costs and warranty claims.",
+        "category": "operational"
+      },
+      {
+        "rank_order": 4,
+        "heading": "We typically face a long selling cycle to secure new contracts that require significant resource commitments, which result in a long lead time before we receive revenues from new relationships.",
+        "summary": "The company faces long selling cycles and preparation periods before providing services, incurring significant business development expenses without guaranteed revenue. Failure to secure or maintain contractual commitments after these cycles may materially adversely affect the business.",
+        "verbatim_key_sentence": "Even if we succeed in developing a relationship with a potential new customer, we may not be successful in obtaining contractual commitments after the selling cycle or in maintaining contractual commitments after the implementation cycle, which may have a material adverse effect on our business, results of operations and financial condition.",
+        "category": "operational"
+      },
+      {
+        "rank_order": 5,
+        "heading": "We could lose our access to data from external sources, which could prevent us from providing our solutions.",
+        "summary": "The company depends on data from external sources including customers, government, and public record services. Data sources could withdraw, increase prices, or become subject to restrictions, and the company relies on third-party internal controls for data accuracy.",
+        "verbatim_key_sentence": "If a substantial number of data sources, or certain key sources, were to withdraw, materially limit, be unable to provide their data, or if we were to lose access to data due to government regulation or policy, decline in reputation or if the collection of data became uneconomical, our ability to provide solutions to our customers could be impacted, which could materially adversely affect our business, reputation, financial condition, operating results, and cash flows.",
+        "category": "operational"
+      },
+      {
+        "rank_order": 6,
+        "heading": "We derive a substantial portion of our revenues from U.S. P&C primary insurers. If there is a downturn in the U.S. insurance industry or that industry does not continue to accept our solutions, our revenues will decline.",
+        "summary": "Approximately 70% of revenue in 2024 was derived from U.S. P&C primary insurers. Revenues are also linked to premiums that fluctuate based on loss experience, capital capacity, and factors beyond the company's control, including natural disasters and climate-related events.",
+        "verbatim_key_sentence": "A downturn in the insurance industry, pricing pressure or lower acceptance of our solutions by the insurance industry could result in a decline in revenues from that industry and have a material adverse effect on our financial condition, results of operations and cash flows.",
+        "category": "customer_concentration"
+      },
+      {
+        "rank_order": 7,
+        "heading": "Acquisitions, other strategic relationships and dispositions of our business, and related integration and separation risks, could result in operating difficulties and other harmful consequences, and we may not be successful in achieving the anticipated benefits of such transactions.",
+        "summary": "Long-term strategy includes growth through acquisitions and strategic relationships. Future acquisitions may not be completed on acceptable terms, acquired assets may not be successfully integrated, and dispositions may not achieve fair value. Integration and separation risks include operational difficulties, assumption of liabilities, and management distraction.",
+        "verbatim_key_sentence": "Future acquisitions or dispositions could result in the incurrence of debt, contingent liabilities or amortization expenses, or write-offs of goodwill and other intangible assets, any of which could harm our financial condition.",
+        "category": "operational"
+      },
+      {
+        "rank_order": 8,
+        "heading": "We may incur substantial additional indebtedness in connection with future acquisitions.",
+        "summary": "Future acquisitions may require incurring substantial additional indebtedness. Increased leverage could increase vulnerability to economic weakness, limit ability to obtain further financing, and limit pursuit of operational and strategic opportunities.",
+        "verbatim_key_sentence": "The increased leverage, potential lack of access to financing and increased expenses could have a material adverse effect on our financial condition, results of operations and cash flows.",
+        "category": "financial"
+      },
+      {
+        "rank_order": 9,
+        "heading": "There may be consolidation in our end customer market, which could reduce the use of our services.",
+        "summary": "Mergers or consolidations among customers could reduce the number of customers and potential customers. If customers merge with entities that are not customers or use fewer services, they may discontinue or reduce use of the company's services.",
+        "verbatim_key_sentence": "Any of these developments could materially adversely affect our business, financial condition, operating results, and cash flows.",
+        "category": "competitive"
+      },
+      {
+        "rank_order": 10,
+        "heading": "General economic, political and market forces and dislocations beyond our control could reduce demand for our solutions and harm our business.",
+        "summary": "Demand may be impacted by domestic and international factors beyond the company's control including macroeconomic, political and market conditions, energy transition, climate change, funding availability, interest rates, currency exchange rates, and inflation. These factors may reduce market activity and demand for solutions.",
+        "verbatim_key_sentence": "Any one or more of these factors may contribute to reduced activity and prices in the securities markets generally and could result in a reduction in demand for our solutions, which could have an adverse effect on our results of operations and financial condition.",
+        "category": "macroeconomic"
+      },
+      {
+        "rank_order": 11,
+        "heading": "Our financial position may be impacted by tax audits or changes in tax laws or tax ruling",
+        "summary": "The company is subject to tax in multiple jurisdictions and is routinely under audit. Tax authorities may disagree with positions taken, and existing tax laws are subject to change. Implementation of OECD Pillar Two global minimum tax rules could also impact tax expense.",
+        "verbatim_key_sentence": "Tax audits with an adverse outcome could have a material impact on our effective tax rate, cash tax positions, and deferred tax assets and liabilities.",
+        "category": "financial"
+      },
+      {
+        "rank_order": 12,
+        "heading": "Fraudulent or unpermitted data access and other cyber-security or privacy breaches may negatively impact our business and harm our reputation.",
+        "summary": "Security breaches in facilities, networks, and data repositories may harm business and reputation. Solutions involve storage and transmission of proprietary and sensitive data across complex systems. Systems are regularly subject to cyber-attacks, threats, and attempts at fraudulent access.",
+        "verbatim_key_sentence": "Any such incident could materially adversely affect our business, reputation, financial condition, operating results and cash flows.",
+        "category": "cybersecurity"
+      },
+      {
+        "rank_order": 13,
+        "heading": "We may lose key business assets, through the loss of data center capacity or the interruption of telecommunications links, the internet, or power sources, which could significantly impede our ability to do business.",
+        "summary": "Operations depend on protecting data centers and technology against damage from hardware failure, natural disasters, security breaches, and other disruptions. The company relies on telecommunications links and telesales centers for revenue generation, and may not have sufficient redundant operations.",
+        "verbatim_key_sentence": "Any damage to our or our third-party service provider's data centers, failure of our telecommunications links or inability to access these telesales centers or websites could cause interruptions in operations that materially adversely affect our ability to meet customers' requirements, resulting in decreased revenue, operating income and earnings per share.",
+        "category": "operational"
+      },
+      {
+        "rank_order": 14,
+        "heading": "A technology vendor that provides critical services, such as cloud-based infrastructure, creates a single point of failure resulting in pricing or contract lock-in risk.",
+        "summary": "As operations migrate to cloud-based infrastructure, systems are consolidated into fewer large suppliers. The company cannot easily switch cloud providers, meaning disruption or interference with a particular supplier would impact operations and business.",
+        "verbatim_key_sentence": "Any of the few of these suppliers could suffer an outage which would in turn result in an outage for one or more of our products.",
+        "category": "technology"
+      },
+      {
+        "rank_order": 15,
+        "heading": "Generative AI use by our customers or other third parties could result in the replacement of our existing products and/or solutions or the reduction of their relevance.",
+        "summary": "Proprietary or copyrighted material could be fed into generative AI models without the company's knowledge, potentially resulting in duplication of products or solutions and reducing their value proposition.",
+        "verbatim_key_sentence": "This could result in duplication of our products or solutions by generative AI tools and reduce the relevance or value proposition of such products or solutions.",
+        "category": "technology"
+      },
+      {
+        "rank_order": 16,
+        "heading": "Our own use of AI, including but not limited to generative AI, to enhance our products could lead to unanticipated consequences such as ethical, compliance, privacy-observing, bias-reducing, and/or intellectual property issues.",
+        "summary": "Increasing use of AI in internal systems may create new attack methods and raise ethical, technological, legal, regulatory, and other challenges. Business policies and internal security controls may not keep pace with emerging threats and cybersecurity regulations.",
+        "verbatim_key_sentence": "Because the generative AI landscape is developing and inherently risky, no assurance can be given that such strategies and offerings will be successful or will not harm our reputation, financial condition, and operating results.",
+        "category": "technology"
+      },
+      {
+        "rank_order": 17,
+        "heading": "We use analytical models to assist our customers in key areas, such as underwriting, claims, reserving, and catastrophe risks, but actual results could differ materially from the model outputs and related analyses.",
+        "summary": "The company uses various modeling techniques to analyze and estimate exposures, loss trends, and risks. Modeled outputs are subject to assumptions, uncertainties, model errors, and inherent statistical limitations, and may contain inaccuracies.",
+        "verbatim_key_sentence": "If, based upon these models or other factors, we provide inaccurate information to customers, or overestimate the risks we are exposed to, new business growth and retention of our existing business may be adversely affected which could have an adverse effect on our results of operations and financial condition.",
+        "category": "operational"
+      },
+      {
+        "rank_order": 18,
+        "heading": "We will continue to rely upon proprietary technology rights, and if we are unable to protect them, our business could be harmed.",
+        "summary": "Success depends partly on intellectual property rights, primarily protected by copyright, patent, trade secret, and trademark laws. Protection of proprietary technology is limited, and it could be used by others without consent. Acquisitions involving intellectual property portfolios increase protection challenges.",
+        "verbatim_key_sentence": "Any disclosure, loss, invalidity of, or failure to protect our intellectual property could negatively impact our competitive position, and ultimately, our business.",
+        "category": "legal"
+      },
+      {
+        "rank_order": 19,
+        "heading": "Regulatory developments could negatively impact our business.",
+        "summary": "Personal and public information stored in data repositories makes the company vulnerable to government regulation and adverse publicity. Many services are already subject to regulation under multiple federal, state, and local laws. Consumer and privacy advocates are lobbying for further restrictions on personal information use.",
+        "verbatim_key_sentence": "The following legal and regulatory developments also could have a material adverse effect on our business, financial position, results of operations or cash flows: amendment, enactment, interpretation of laws and regulations or implementation of policy which restrict the access and use of personal information and reduce the supply of data available to customers.",
+        "category": "regulatory"
+      },
+      {
+        "rank_order": 20,
+        "heading": "We are subject to antitrust, consumer protection, intellectual property, data privacy, and other litigation, as well as governmental investigations, and may in the future become further subject to such litigation and investigations; an adverse outcome in such litigation or investigations could have a material adverse effect on our financial condition, revenues and profitability.",
+        "summary": "The company participates in insurance-related businesses subject to substantial litigation including antitrust, consumer protection, intellectual property, and data privacy. Insurance specialists provide advice on standard contract terms which could expose the company to reputational harm and liability.",
+        "verbatim_key_sentence": "Even if the direct financial impact of such litigation or investigations is not material, settlements or judgments arising out of such litigation or investigations could include further restrictions on our ability to conduct business, including potentially the elimination of entire lines of business, which could increase our cost of doing business and limit our prospects for future growth.",
+        "category": "legal"
+      },
+      {
+        "rank_order": 21,
+        "heading": "We could face claims for intellectual property infringement, which if successful could restrict us from using and providing our technologies and solutions to our customers.",
+        "summary": "There is substantial litigation regarding intellectual property rights in the information technology industry. The company may be infringing third-party intellectual property rights, and has been subject to infringement litigation. Expansion increases the risk of infringement.",
+        "verbatim_key_sentence": "If a successful claim of infringement is brought against us and we fail to develop non-infringing technologies and solutions or to obtain licenses on a timely and cost-effective basis, this could materially adversely affect our business, reputation, financial condition, operating results, and cash flows.",
+        "category": "legal"
+      },
+      {
+        "rank_order": 22,
+        "heading": "We are subject to extensive procurement laws and regulations, including those that enable the U.S. government to terminate contracts for convenience. Our business and reputation could be adversely affected if we or those we do business with fail to comply with or adapt to existing or new procurement laws and regulations which are constantly evolving.",
+        "summary": "The company must comply with laws and regulations relating to U.S. government contracts. Violations could result in fines, penalties, contract termination, suspension or debarment, and loss of ability to perform services. The U.S. government may terminate contracts at its convenience or for default.",
+        "verbatim_key_sentence": "If a contract is terminated for default, the U.S. government could make claims to reduce the contract value or recover its procurement costs and could assess other special penalties, in some cases in excess of the contract value, exposing us to liability and adversely affecting our ability to compete for future contracts and orders.",
+        "category": "regulatory"
+      },
+      {
+        "rank_order": 23,
+        "heading": "Our operations are subject to additional risks inherent in international operations.",
+        "summary": "With operations in 19 countries, the company provides services to the global insurance industry. International operations could be adversely affected by unfavorable geopolitical developments, legal and regulatory changes, tax changes, trade policy changes, political upheaval, and nationalization without compensation.",
+        "verbatim_key_sentence": "All of these risks could result in increased costs or decreased revenues, either of which could have a material adverse effect on our financial condition, results of operations and cash flows.",
+        "category": "geopolitical"
+      },
+      {
+        "rank_order": 24,
+        "heading": "We may fail to attract and retain enough qualified employees to support our operations, which could have an adverse effect on our ability to expand our business and service our customers.",
+        "summary": "The business relies on large numbers of skilled employees, and success depends on the ability to attract, train, and retain qualified employees. The company competes for employees with other industries and faces a limited pool of skilled candidates.",
+        "verbatim_key_sentence": "Increased competition for employees could have an adverse effect on our ability to expand our business and service our customers, as well as cause us to incur greater personnel expenses and training costs.",
+        "category": "key_personnel"
+      },
+      {
+        "rank_order": 25,
+        "heading": "Physical and transition risks associated with climate change and its consequences could disrupt operations, threaten the safety of employees, or negatively impact our financial performance.",
+        "summary": "Climate-related events including acute physical risks (heatwave, hurricane, flooding, wildfire) and chronic physical risks (sea level rise, water stress) could disrupt operations and threaten employee safety. Transition risks associated with a lower-carbon economy include policy, technology, market, and reputation risks.",
+        "verbatim_key_sentence": "Transition risks associated with achieving a lower-carbon global economy encompassing policy and legal risk such as potential costs associated with the introduction of mandatory global carbon pricing and potential regulatory mandates involving climate-related reporting obligations, technology risk such as the potential increase in costs associated with a mandated transition to low-emissions technologies, market risk such as the potential impacts of a market shift in customer demand toward low-carbon solutions, and reputation risk such as potential impacts on our business from increasing stakeholder expectations related to real or perceived deficiencies associated with our climate leadership, strategy, performance, or disclosures could negatively impact our financial performance.",
+        "category": "esg"
+      },
+      {
+        "rank_order": 26,
+        "heading": "We are transitioning to a new Enterprise Resource Planning system and our ability to manage our business and monitor results is highly dependent upon information and communication systems. A failure of these systems or the ERP implementation could disrupt our business and results of operations.",
+        "summary": "The company is implementing a company-wide, single ERP software system, a lengthy and expensive process diverting resources from other operations. Divergence from the project plan may result in cost overruns, delays, or business interruptions.",
+        "verbatim_key_sentence": "Any disruptions, delays or deficiencies in the design and/or implementation of the new ERP system, or in the performance of our legacy systems, particularly any disruptions, delays or deficiencies that impact our operations, could adversely affect our ability to effectively run and manage our business and adversely affect our reputation, competitive position, business, results of operations and financial condition.",
+        "category": "technology"
+      },
+      {
+        "rank_order": 27,
+        "heading": "If there are substantial sales of our common stock, our stock price could decline.",
+        "summary": "The market price could decline from sales of a large number of shares or the perception that such sales could occur. As of December 31, 2024, the ten largest shareholders owned 40.3% of common stock. Such stockholders can sell their stock in the public market subject to securities law limitations.",
+        "verbatim_key_sentence": "If any of these stockholders were to sell a large number of their common stock, the market price of our common stock could decline significantly.",
+        "category": "financial"
+      },
+      {
+        "rank_order": 28,
+        "heading": "Our capital structure, level of indebtedness and the terms of anti-takeover provisions under Delaware law and in our amended and restated certificate of incorporation and bylaws could diminish the value of our common stock and could make a merger, tender offer or proxy contest difficult or could impede an attempt to replace or remove our directors.",
+        "summary": "As a Delaware corporation, the company is subject to anti-takeover provisions that may discourage, delay, or prevent a change in control. Certificate of incorporation and bylaws contain provisions that may discourage changes in management or control, including authorization of blank check preferred stock, prohibition of cumulative voting, restrictions on special meetings, and prohibition of stockholder action by written consent.",
+        "verbatim_key_sentence": "These provisions may prevent a stockholder from receiving the benefit from any premium over the market price of our common stock offered by a bidder in a potential takeover.",
+        "category": "financial"
+      }
+    ]
+  },
+  "mda": {
+    "source": "Item 7 — MD&A",
+    "management_narrative_summary": "The company is a leading data analytics provider serving clients in the insurance markets. Using advanced technologies to collect and analyze billions of records, the company draws on unique data assets and deep domain expertise to provide innovations that may be integrated into client workflows. The company offers predictive analytics and decision support solutions to clients in rating, underwriting, claims, catastrophe and weather risk, global risk analytics, and many other fields. In the U.S. and around the world, the company helps clients protect people, property, and financial assets.",
+    "key_performance_drivers": [],
+    "known_trends_and_uncertainties": [],
+    "segment_discussion": [],
+    "margin_commentary": {
+      "gross_margin_discussion": "NOT_PROVIDED",
+      "operating_margin_discussion": "NOT_PROVIDED",
+      "factors_cited_for_margin_changes": []
+    },
+    "pricing_commentary": {
+      "pricing_actions_discussed": false,
+      "details": "NOT_PROVIDED"
+    },
+    "management_emphasized_kpis": [],
+    "liquidity_and_capital_resources": {
+      "cash_position_discussed": "NOT_PROVIDED",
+      "capital_allocation_priorities_stated": [],
+      "share_repurchase_discussion": "NOT_PROVIDED",
+      "dividend_discussion": "NOT_PROVIDED"
+    },
+    "share_repurchase_data": {
+      "shares_repurchased_current_year": "NOT_PROVIDED",
+      "amount_spent_on_repurchases": "NOT_PROVIDED",
+      "remaining_authorization": "NOT_PROVIDED",
+      "source_section": "NOT_PROVIDED"
+    },
+    "dividend_data": {
+      "dividends_per_share": "NOT_PROVIDED",
+      "total_dividends_paid": "NOT_PROVIDED",
+      "source_section": "NOT_PROVIDED"
+    },
+    "capital_expenditure_discussion": {
+      "total_capex_discussed": "NOT_PROVIDED",
+      "maintenance_vs_growth_split_if_disclosed": "NOT_PROVIDED",
+      "capex_by_segment_if_disclosed": [],
+      "management_capex_outlook": "NOT_PROVIDED"
+    },
+    "critical_accounting_estimates": [],
+    "forward_looking_statements": [
+      "Our actual results may differ materially from those discussed in or implied by any of the forward-looking statements as a result of various factors, including but not limited to those listed under 'Risk Factors' and 'Special Note Regarding Forward-Looking Statements.'",
+      "New risks and uncertainties come up from time to time, and it is impossible to predict these events or how they may affect us.",
+      "We have no obligation to update any forward-looking statements after the date hereof, except as required by applicable federal securities law."
+    ]
+  },
+  "financial_statements_and_notes": {
+    "source": "Item 8 — Financial Statements and Supplementary Data",
+    "revenue_recognition": {
+      "policy_summary": "NOT_PROVIDED",
+      "verbatim_key_language": "NOT_PROVIDED",
+      "performance_obligations_description": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "debt_and_borrowings": {
+      "total_long_term_debt": "NOT_PROVIDED",
+      "total_short_term_debt": "NOT_PROVIDED",
+      "instruments": [
+        {
+          "description": "4.000% Senior Note",
+          "principal_amount": "NOT_PROVIDED",
+          "interest_rate": "4.000%",
+          "maturity_date": "NOT_PROVIDED",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "4.125% Senior Note",
+          "principal_amount": "NOT_PROVIDED",
+          "interest_rate": "4.125%",
+          "maturity_date": "NOT_PROVIDED",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "5.500% Senior Note",
+          "principal_amount": "NOT_PROVIDED",
+          "interest_rate": "5.500%",
+          "maturity_date": "NOT_PROVIDED",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "3.625% Senior Note",
+          "principal_amount": "NOT_PROVIDED",
+          "interest_rate": "3.625%",
+          "maturity_date": "NOT_PROVIDED",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "5.750% Senior Notes",
+          "principal_amount": "NOT_PROVIDED",
+          "interest_rate": "5.750%",
+          "maturity_date": "NOT_PROVIDED",
+          "covenants_noted": "NOT_PROVIDED"
+        },
+        {
+          "description": "2034 Senior Notes",
+          "principal_amount": "NOT_PROVIDED",
+          "interest_rate": "NOT_PROVIDED",
+          "maturity_date": "2034",
+          "covenants_noted": "NOT_PROVIDED"
+        }
+      ],
+      "maturity_schedule": [],
+      "credit_facility": {
+        "total_capacity": "NOT_PROVIDED",
+        "drawn_amount": "NOT_PROVIDED",
+        "available": "NOT_PROVIDED",
+        "expiration": "NOT_PROVIDED",
+        "key_covenants": []
+      },
+      "note_reference": "NOT_PROVIDED"
+    },
+    "lease_obligations": {
+      "operating_lease_liability_total": "NOT_PROVIDED",
+      "finance_lease_liability_total": "NOT_PROVIDED",
+      "operating_lease_rou_asset": "NOT_PROVIDED",
+      "maturity_schedule_if_provided": [],
+      "note_reference": "Note 8"
+    },
+    "goodwill_and_intangibles": {
+      "goodwill_balance": "NOT_PROVIDED",
+      "total_intangibles": "NOT_PROVIDED",
+      "goodwill_by_segment_if_provided": [
+        {
+          "segment": "Insurance",
+          "amount": "NOT_PROVIDED"
+        }
+      ],
+      "impairment_charges_current_year": "NOT_PROVIDED",
+      "impairment_history": [],
+      "impairment_testing_methodology": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "contractual_obligations": {
+      "table_provided": false,
+      "obligations": [],
+      "source_location": "NOT_PROVIDED"
+    },
+    "pension_and_postretirement": {
+      "has_defined_benefit_plan": true,
+      "funded_status": "NOT_PROVIDED",
+      "benefit_obligation": "NOT_PROVIDED",
+      "plan_assets": "NOT_PROVIDED",
+      "note_reference": "Note 18"
+    },
+    "contingencies_and_litigation": {
+      "material_matters_disclosed": [
+        {
+          "description": "Atlas Data Privacy Corp. et al. v. Verisk Analytics Inc.",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "NOT_PROVIDED",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "Ahringer et al. v. LoanDepot Inc. and Verisk Analytics",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "NOT_PROVIDED",
+          "accrual_recorded": "NOT_PROVIDED"
+        },
+        {
+          "description": "Williams v. DDR Merida LLC and Lead Intelligence Inc.",
+          "status": "ongoing",
+          "potential_exposure_if_stated": "NOT_PROVIDED",
+          "accrual_recorded": "NOT_PROVIDED"
+        }
+      ],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "segment_financial_data": {
+      "number_of_segments": 3,
+      "segments": [
+        {
+          "name": "Insurance - Underwriting",
+          "revenue": "NOT_PROVIDED",
+          "operating_income": "NOT_PROVIDED",
+          "total_assets": "NOT_PROVIDED",
+          "depreciation_amortization": "NOT_PROVIDED",
+          "capital_expenditures": "NOT_PROVIDED"
+        },
+        {
+          "name": "Insurance - Claims",
+          "revenue": "NOT_PROVIDED",
+          "operating_income": "NOT_PROVIDED",
+          "total_assets": "NOT_PROVIDED",
+          "depreciation_amortization": "NOT_PROVIDED",
+          "capital_expenditures": "NOT_PROVIDED"
+        },
+        {
+          "name": "Specialized Markets",
+          "revenue": "NOT_PROVIDED",
+          "operating_income": "NOT_PROVIDED",
+          "total_assets": "NOT_PROVIDED",
+          "depreciation_amortization": "NOT_PROVIDED",
+          "capital_expenditures": "NOT_PROVIDED"
+        },
+        {
+          "name": "Financial Services",
+          "revenue": "NOT_PROVIDED",
+          "operating_income": "NOT_PROVIDED",
+          "total_assets": "NOT_PROVIDED",
+          "depreciation_amortization": "NOT_PROVIDED",
+          "capital_expenditures": "NOT_PROVIDED"
+        }
+      ],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "customer_concentration_from_notes": {
+      "any_customer_above_10pct": false,
+      "details": [
+        "No individual customer accounted for 10% or more of revenues for years ended December 31, 2024, 2023, and 2022.",
+        "Top fifty customers accounted for revenues during the years ended December 31, 2024, 2023, and 2022."
+      ],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "stock_based_compensation": {
+      "total_expense_current_year": "NOT_PROVIDED",
+      "by_type_if_disclosed": {
+        "stock_options": "NOT_PROVIDED",
+        "rsus": "NOT_PROVIDED",
+        "psus": "NOT_PROVIDED",
+        "espp": "NOT_PROVIDED"
+      },
+      "note_reference": "Note 16"
+    },
+    "acquisitions_current_year": [
+      {
+        "target": "Rocket Enterprise Solutions GmbH",
+        "date": "2024-01-08",
+        "purchase_price": "NOT_PROVIDED",
+        "goodwill_recognized": "NOT_PROVIDED",
+        "intangibles_recognized": "NOT_PROVIDED",
+        "description": "NOT_PROVIDED"
+      }
+    ],
+    "acquisition_related_charges": [],
+    "divestitures_current_year": [
+      {
+        "description": "Energy Business",
+        "date": "2023-02-01",
+        "proceeds": "NOT_PROVIDED",
+        "gain_loss": "NOT_PROVIDED"
+      },
+      {
+        "description": "AER",
+        "date": "NOT_PROVIDED",
+        "proceeds": "NOT_PROVIDED",
+        "gain_loss": "NOT_PROVIDED"
+      }
+    ],
+    "restructuring_charges": {
+      "amount": "NOT_PROVIDED",
+      "description": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "related_party_transactions": {
+      "any_disclosed": false,
+      "details": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "subsequent_events": "Accelerated Share Repurchase (ASR) Agreement in January 2025: The company entered into ASR agreements and made payments between January 1, 2025 and January 31, 2025. Awards granted to key employees in January 2025 include nonqualified stock options, restricted stock, and performance shares. On February 19, 2025, quarterly cash dividends were declared for Q1 2025 through Q1 2026."
+  }
+}

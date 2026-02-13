@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "source_file": "vrsk20221231_10k.htm",
+    "filing_type": "10-K",
+    "extraction_timestamp": "2026-02-12T10:02:09.922732",
+    "extraction_mode": "per_section",
+    "sections_extracted": [
+      "item1_business",
+      "item1a_risk_factors",
+      "item7_mda",
+      "item8_financials"
+    ],
+    "sections_failed": [],
+    "validation_warnings": [
+      "No business model summary extracted",
+      "No competitive advantage evidence found for any moat type — verify against filing",
+      "No revenue durability indicators extracted — verify against filing",
+      "No individual risk factors extracted",
+      "No key performance drivers extracted from MD&A",
+      "No known trends and uncertainties extracted — this is a required SEC disclosure",
+      "No management-emphasized KPIs extracted from MD&A",
+      "Share repurchase dollar amount not extracted — verify if company has buyback program",
+      "Total capex figure not extracted from MD&A — check Liquidity and Capital Resources section",
+      "No debt instruments extracted — verify if company has debt",
+      "No debt maturity schedule extracted — critical for balance sheet assessment",
+      "Revenue recognition verbatim language not extracted — this should always be present",
+      "Goodwill balance not extracted — verify if company has goodwill"
+    ]
+  },
+  "business_description": {
+    "source": "Item 1 — Business",
+    "business_model_summary": "NOT_PROVIDED",
+    "revenue_model": "NOT_PROVIDED",
+    "products_and_services": [],
+    "geographic_markets": [],
+    "seasonality": "NOT_PROVIDED",
+    "key_customers_disclosed": [],
+    "customer_concentration": {
+      "any_customer_above_10pct": false,
+      "details": []
+    },
+    "competitive_landscape_as_described": "NOT_PROVIDED",
+    "regulatory_environment": "NOT_PROVIDED",
+    "employees": {
+      "total": null,
+      "breakdown_if_provided": "NOT_PROVIDED"
+    },
+    "competitive_advantage_evidence": {
+      "switching_costs": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      },
+      "brand_mindshare": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      },
+      "cost_scale_advantages": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      },
+      "network_effects": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      },
+      "regulatory_licensing_barriers": {
+        "evidence_found": false,
+        "supporting_text": [],
+        "source_sections": []
+      }
+    },
+    "revenue_durability_indicators": {
+      "recurring_revenue_disclosed": false,
+      "recurring_revenue_percentage_if_stated": "NOT_PROVIDED",
+      "contract_terms_disclosed": "NOT_PROVIDED",
+      "renewal_rates_disclosed": "NOT_PROVIDED",
+      "backlog_or_remaining_performance_obligations": "NOT_PROVIDED",
+      "long_term_customer_agreements_mentioned": false,
+      "details": "NOT_PROVIDED"
+    }
+  },
+  "risk_factors": {
+    "source": "Item 1A — Risk Factors",
+    "total_risk_factors_count": 0,
+    "risks": []
+  },
+  "mda": {
+    "source": "Item 7 — MD&A",
+    "management_narrative_summary": "NOT_PROVIDED",
+    "key_performance_drivers": [],
+    "known_trends_and_uncertainties": [],
+    "segment_discussion": [],
+    "margin_commentary": {
+      "gross_margin_discussion": "NOT_PROVIDED",
+      "operating_margin_discussion": "NOT_PROVIDED",
+      "factors_cited_for_margin_changes": []
+    },
+    "pricing_commentary": {
+      "pricing_actions_discussed": false,
+      "details": "NOT_PROVIDED"
+    },
+    "management_emphasized_kpis": [],
+    "liquidity_and_capital_resources": {
+      "cash_position_discussed": "NOT_PROVIDED",
+      "capital_allocation_priorities_stated": [],
+      "share_repurchase_discussion": "NOT_PROVIDED",
+      "dividend_discussion": "NOT_PROVIDED"
+    },
+    "share_repurchase_data": {
+      "shares_repurchased_current_year": "NOT_PROVIDED",
+      "amount_spent_on_repurchases": "NOT_PROVIDED",
+      "remaining_authorization": "NOT_PROVIDED",
+      "source_section": "NOT_PROVIDED"
+    },
+    "dividend_data": {
+      "dividends_per_share": "NOT_PROVIDED",
+      "total_dividends_paid": "NOT_PROVIDED",
+      "source_section": "NOT_PROVIDED"
+    },
+    "capital_expenditure_discussion": {
+      "total_capex_discussed": "NOT_PROVIDED",
+      "maintenance_vs_growth_split_if_disclosed": "NOT_PROVIDED",
+      "capex_by_segment_if_disclosed": [],
+      "management_capex_outlook": "NOT_PROVIDED"
+    },
+    "critical_accounting_estimates": [],
+    "forward_looking_statements": []
+  },
+  "financial_statements_and_notes": {
+    "source": "Item 8 — Financial Statements and Supplementary Data",
+    "revenue_recognition": {
+      "policy_summary": "NOT_PROVIDED",
+      "verbatim_key_language": "NOT_PROVIDED",
+      "performance_obligations_description": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "debt_and_borrowings": {
+      "total_long_term_debt": "NOT_PROVIDED",
+      "total_short_term_debt": "NOT_PROVIDED",
+      "instruments": [],
+      "maturity_schedule": [],
+      "credit_facility": {
+        "total_capacity": "NOT_PROVIDED",
+        "drawn_amount": "NOT_PROVIDED",
+        "available": "NOT_PROVIDED",
+        "expiration": "NOT_PROVIDED",
+        "key_covenants": []
+      },
+      "note_reference": "NOT_PROVIDED"
+    },
+    "lease_obligations": {
+      "operating_lease_liability_total": "NOT_PROVIDED",
+      "finance_lease_liability_total": "NOT_PROVIDED",
+      "operating_lease_rou_asset": "NOT_PROVIDED",
+      "maturity_schedule_if_provided": [],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "goodwill_and_intangibles": {
+      "goodwill_balance": "NOT_PROVIDED",
+      "total_intangibles": "NOT_PROVIDED",
+      "goodwill_by_segment_if_provided": [],
+      "impairment_charges_current_year": "NOT_PROVIDED",
+      "impairment_history": [],
+      "impairment_testing_methodology": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "contractual_obligations": {
+      "table_provided": false,
+      "obligations": [],
+      "source_location": "NOT_PROVIDED"
+    },
+    "pension_and_postretirement": {
+      "has_defined_benefit_plan": false,
+      "funded_status": "NOT_PROVIDED",
+      "benefit_obligation": "NOT_PROVIDED",
+      "plan_assets": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "contingencies_and_litigation": {
+      "material_matters_disclosed": [],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "segment_financial_data": {
+      "number_of_segments": null,
+      "segments": [],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "customer_concentration_from_notes": {
+      "any_customer_above_10pct": false,
+      "details": [],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "stock_based_compensation": {
+      "total_expense_current_year": "NOT_PROVIDED",
+      "by_type_if_disclosed": {
+        "stock_options": "NOT_PROVIDED",
+        "rsus": "NOT_PROVIDED",
+        "psus": "NOT_PROVIDED",
+        "espp": "NOT_PROVIDED"
+      },
+      "note_reference": "NOT_PROVIDED"
+    },
+    "acquisitions_current_year": [],
+    "acquisition_related_charges": [],
+    "divestitures_current_year": [],
+    "restructuring_charges": {
+      "amount": "NOT_PROVIDED",
+      "description": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "related_party_transactions": {
+      "any_disclosed": false,
+      "details": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "subsequent_events": "NOT_PROVIDED"
+  }
+}

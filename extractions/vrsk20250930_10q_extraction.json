@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "source_file": "vrsk20250930_10q.htm",
+    "filing_type": "10-Q",
+    "extraction_timestamp": "2026-02-12T10:34:57.045102",
+    "extraction_mode": "per_section",
+    "sections_extracted": [
+      "part1_item1_financials",
+      "part1_item2_mda",
+      "part2_item1a_risk_factors"
+    ],
+    "sections_not_found": [],
+    "validation_warnings": [
+      "No management narrative summary extracted from MD&A",
+      "No key performance drivers extracted from quarterly MD&A",
+      "No emerging trends extracted — this is the highest-value 10-Q content",
+      "No management-emphasized KPIs extracted from quarterly MD&A",
+      "Quarter period not identified in MD&A extraction",
+      "Remaining performance obligations (RPO) not extracted — check if disclosed in quarterly notes"
+    ]
+  },
+  "quarterly_financial_notes": {
+    "source": "10-Q, Item 1 — Financial Statements and Notes",
+    "quarter_period": "NOT_PROVIDED",
+    "debt_updates": {
+      "any_changes_from_annual": false,
+      "new_issuances": [],
+      "repayments_or_redemptions": [],
+      "credit_facility_updates": {
+        "drawn_amount": "NOT_PROVIDED",
+        "available": "NOT_PROVIDED",
+        "covenant_compliance_noted": "NOT_PROVIDED"
+      },
+      "note_reference": "NOT_PROVIDED"
+    },
+    "acquisitions_in_period": [],
+    "divestitures_in_period": [],
+    "restructuring_updates": {
+      "any_activity": false,
+      "charges_in_period": "NOT_PROVIDED",
+      "description": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "goodwill_and_intangibles_updates": {
+      "any_changes_from_annual": false,
+      "goodwill_balance": "NOT_PROVIDED",
+      "impairment_charges_in_period": "NOT_PROVIDED",
+      "changes_description": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "contingencies_and_litigation_updates": {
+      "any_new_matters": false,
+      "any_status_changes": false,
+      "matters": [],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "revenue_recognition_updates": {
+      "any_changes_from_annual": false,
+      "changes_description": "NOT_PROVIDED",
+      "remaining_performance_obligations": "NOT_PROVIDED",
+      "note_reference": "NOT_PROVIDED"
+    },
+    "segment_updates": {
+      "any_segment_changes": false,
+      "changes_description": "NOT_PROVIDED",
+      "quarterly_segment_data": [],
+      "note_reference": "NOT_PROVIDED"
+    },
+    "subsequent_events": "NOT_PROVIDED",
+    "other_notable_items": []
+  },
+  "mda": {
+    "source": "10-Q, Item 2 — MD&A",
+    "quarter_period": "NOT_PROVIDED",
+    "management_narrative_summary": "NOT_PROVIDED",
+    "key_performance_drivers": [],
+    "emerging_trends": [],
+    "updated_guidance_language": [],
+    "known_trends_and_uncertainties": [],
+    "segment_discussion": [],
+    "margin_commentary": {
+      "gross_margin_discussion": "NOT_PROVIDED",
+      "operating_margin_discussion": "NOT_PROVIDED",
+      "factors_cited_for_margin_changes": []
+    },
+    "pricing_commentary": {
+      "pricing_actions_discussed": false,
+      "details": "NOT_PROVIDED"
+    },
+    "management_emphasized_kpis": [],
+    "liquidity_and_capital_resources": {
+      "cash_position_discussed": "NOT_PROVIDED",
+      "capital_allocation_updates": [],
+      "share_repurchase_discussion": "NOT_PROVIDED"
+    },
+    "share_repurchase_data": {
+      "shares_repurchased_quarter": "NOT_PROVIDED",
+      "amount_spent_on_repurchases": "NOT_PROVIDED",
+      "remaining_authorization": "NOT_PROVIDED",
+      "source_section": "NOT_PROVIDED"
+    },
+    "capital_expenditure_discussion": {
+      "total_capex_discussed": "NOT_PROVIDED",
+      "management_capex_outlook": "NOT_PROVIDED"
+    },
+    "critical_accounting_estimates_updates": [],
+    "material_interim_events": []
+  },
+  "risk_factor_updates": {
+    "source": "10-Q, Item 1A — Risk Factors",
+    "quarter_period": "NOT_PROVIDED",
+    "update_type": "no_material_changes",
+    "no_material_changes_statement": "NOT_PROVIDED",
+    "new_risks": [],
+    "modified_risks": [],
+    "removed_risks_if_identifiable": []
+  }
+}

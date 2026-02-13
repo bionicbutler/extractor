@@ -1,0 +1,838 @@
+{
+  "metadata": {
+    "call_type": "Third Quarter 2025 Earnings",
+    "call_date": "NOT_PROVIDED",
+    "period": "Third Quarter 2025",
+    "company_name": "NOT_PROVIDED",
+    "source_file": "q3 2025.txt",
+    "filing_type": "earnings_transcript",
+    "extraction_timestamp": "2026-02-12T11:00:08.793198",
+    "extraction_mode": "split_sections",
+    "sections_extracted": [
+      "prepared_remarks",
+      "qanda"
+    ],
+    "citation_tier": {
+      "tier": 2,
+      "tier_label": "Tier 2",
+      "confirmed_fields": [
+        "call_type",
+        "speaker_names",
+        "speaker_roles",
+        "section_identification"
+      ],
+      "missing_fields": [
+        "call_date"
+      ],
+      "confirmed_count": 4,
+      "admissible": true,
+      "note": ""
+    },
+    "validation_warnings": [
+      "Call date not identified — transcript will be classified as Tier 3 (excluded from evidence)",
+      "Tier 2 transcript — missing fields: call_date",
+      "No Q&A exchanges extracted — this section is critical for communication clarity assessment"
+    ]
+  },
+  "prepared_remarks": {
+    "source": "Prepared Remarks",
+    "speakers": [
+      {
+        "full_name": "Operator",
+        "role": "NOT_PROVIDED",
+        "is_company_executive": false,
+        "is_operator_or_moderator": true
+      },
+      {
+        "full_name": "Stacey Brodbar",
+        "role": "Head of Investor Relations",
+        "is_company_executive": true,
+        "is_operator_or_moderator": false
+      },
+      {
+        "full_name": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "is_company_executive": true,
+        "is_operator_or_moderator": false
+      },
+      {
+        "full_name": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims",
+        "is_company_executive": true,
+        "is_operator_or_moderator": false
+      }
+    ],
+    "key_themes": [
+      {
+        "theme": "Organic revenue and subscription growth momentum",
+        "supporting_quotes": [
+          {
+            "quote": "Verisk delivered organic constant currency revenue growth of 5.5% driven by strong subscription revenue growth of 8.7%. This growth compounded on top of the solid growth delivered last year.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "Subscription revenues, which comprise 84% of our total revenue in the quarter, grew 8.7% on an OCC basis, compounding on the 9.1% OCC growth we delivered in the prior year quarter and consistent with growth levels in the first half of the year.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Weather-driven transactional revenue headwinds",
+        "supporting_quotes": [
+          {
+            "quote": "In the quarter, we experienced an exceptionally low level of severe weather, resulting in a decline in claims assignments across our Xactware system. This and other factors drove transactional revenue declines of 8.8% on an OCC basis.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "Weather events in the 3rd quarter as tracked by NOAA. declined 18% versus last year and were 31% below the five-year average. According to Verisk's own PCS data, third quarter weather event frequency severity declined 30% and 78% respectively on a year-over-year basis. In fact, this third quarter marks the lowest level of storm events in the U.S. since 2017 and 2025 is on track to be the first year since 2015 without a named U.S. hurricane to make landfall so far.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          }
+        ],
+        "category": "risk_acknowledgment"
+      },
+      {
+        "theme": "Strategic client engagement and value delivery",
+        "supporting_quotes": [
+          {
+            "quote": "Our strong subscription growth reflects continued strategic engagement with our clients, and a much improved dialogue on the value that we are delivering, and how we can tailor our solutions to their individual needs.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "What we heard consistently from our clients was, one, that they need more data from us to better integrate across their businesses and functions, and they've demonstrated in new solutions access and surplus that they're willing to increase their data contributions, two, a high interest in the AI enhancements that we've developed using our data sets where they can get immediate benefit without heavy investment, and three, strong support for the efficiency driving multi-partner integrations that we provide in our property estimating solutions and specialty business, and that we are developing an anti-fraud and extreme event solutions.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "AI deployment and adoption",
+        "supporting_quotes": [
+          {
+            "quote": "our deployed AI applications have been enthusiastically embraced by our clients. As an example, in XactXpert  where we utilize AI to advise claims professionals in estimate review, we now have over 40 clients using the solution, including six of the top 10 carriers. and year-to-date sales performance is now more than double original quotas.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "And XactXpert can now be further enhanced by Xact AI, adding Gen AI capabilities like photo tagging through a new solution which launched just this month and already has 273 users, including a top 10 carrier.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "we've had very positive reactions to our AI query tools for claim search and SavvyR for regulators, with about half of our 30 SavvyR states signed on, allowing our clients to more easily interrogate our data through natural language interfaces.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "product_development"
+      },
+      {
+        "theme": "Proprietary data as competitive moat",
+        "supporting_quotes": [
+          {
+            "quote": "it's all about the data. AI relies on high quality and usable data to train the models, and I can say with confidence that Verisk's content, which includes data, language, analytics, and models, is built upon proprietary data that is not publicly available and is structured, cleansed, vetted, and designed by us to take advantage of the power of AI.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "Our investments in Core Lines reimagined and the success we've had as demonstrated by our subscription growth is the clearest evidence that our curated datasets remain the fuel that powers insurance analytics. While it is still early, we are experiencing increased usage of our content as the introduction of AI tools in certain of our solutions is making it easier for our clients to interact with, driving value for our clients.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "we continue to grow the number of contributors to our existing data sets, onboarding 10 new statistical data contributors so far in 2025.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "competitive_dynamics"
+      },
+      {
+        "theme": "Data contributor expansion",
+        "supporting_quotes": [
+          {
+            "quote": "Verisk's clients are also actively supporting our new initiatives to build greenfield contributory data sets across anti-fraud and for the excess and surplus lines. Specifically, our new digital media forensics currently has 106 contributors, including five of the top 10 carriers, representing over 600 million digital images.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "With E&S, insurers are responding positively to our initiative to collect data for this growing market. We began this initiative less than a year ago and have already received commitments and actual data from several companies representing billions of dollars of premium.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Margin expansion and cost discipline",
+        "supporting_quotes": [
+          {
+            "quote": "Despite the transactional revenue impact, we delivered 8.8% OCC adjusted EBITDA growth with expanded EBITDA margin of 55.8%.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "total adjusted EBITDA margins, which include both organic and inorganic results were 55.8%, up 60 basis points from the prior year. This level of margin expansion reflects our ongoing cost discipline, including the benefits of our global talent optimization, as well as the core leverage from sales growth.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          },
+          {
+            "quote": "Over the past 5 years, we have delivered over 500 basis points of margin expansion, while self-funding investments in some large scale transformative technology and product upgrades. Including our cloud migration, Corelines reimagined, the ERP implementation and artificial intelligence.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          }
+        ],
+        "category": "margin_outlook"
+      },
+      {
+        "theme": "Core Lines Reimagine innovation",
+        "supporting_quotes": [
+          {
+            "quote": "Within Forms, Rules, and Lost Costs, we continue to execute on our innovation agenda through the Reimagine program, which is driving solid price realization in the renewal process across all client tiers. In the 3rd quarter, we launched 3 new modules as the latest demonstration of the increased value we're delivering to clients and the industry.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          },
+          {
+            "quote": "our new Indication Center delivers key rating elements to our clients 2 months sooner than our traditional loss cost review process. This allows insurers to begin responsive rate action sooner and more confidently when incorporating various data into their pricing and underwriting management.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          },
+          {
+            "quote": "We remain on track to deliver all 20 planned reimagined releases in 2025. reinforcing our commitment to innovation and execution discipline.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          }
+        ],
+        "category": "product_development"
+      },
+      {
+        "theme": "AccuLynx acquisition delay",
+        "supporting_quotes": [
+          {
+            "quote": "FTC approval of the transaction has been delayed. We have received a second request for information, and we continue to have productive engagement with the FTC, working within the conditions of the federal government shutdown. Consequently, we do not expect to realize any material benefit from the pending transaction in 2025 and have removed any operating results from our 2025 guidance.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          },
+          {
+            "quote": "We are proactively engaged with the FTC and continue to believe in the strategic and financial merits of the transaction.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "M&A"
+      },
+      {
+        "theme": "Sales performance",
+        "supporting_quotes": [
+          {
+            "quote": "Concretely, our elevated strategic engagement is leading to more pipeline opportunities, and in fact 2025 is on track to be our strongest sales year yet, with sales teams across Verisk exceeding an ambitious quota for the second straight year.",
+            "speaker": "Lee Shavel",
+            "role": "President and Chief Executive Officer"
+          }
+        ],
+        "category": "growth_strategy"
+      },
+      {
+        "theme": "Auto competitive pressures",
+        "supporting_quotes": [
+          {
+            "quote": "As discussed last quarter, we continue to see softness in our personal lines auto business relating to competitive pressures. In addition, we are experiencing tougher comparisons on certain non-rate action deals as carriers have been more successful achieving greater rate adequacy.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          }
+        ],
+        "category": "competitive_dynamics"
+      },
+      {
+        "theme": "Strong free cash flow",
+        "supporting_quotes": [
+          {
+            "quote": "On a reported basis, net cash from operating activities increased 36% to $404 million, while free cash flow rose 40% to $336 million. This increase was driven primarily by an improvement in the timing of collections, as well as lower cash taxes paid due to changes in the tax code associated with the treatment of research and development costs.",
+            "speaker": "Elizabeth Mann",
+            "role": "Chief Financial Officer and Interim Head of Claims"
+          }
+        ],
+        "category": "operational_efficiency"
+      }
+    ],
+    "financial_metrics_cited": [
+      {
+        "metric": "Organic constant currency revenue growth",
+        "value": "5.5%",
+        "context": "Verisk delivered organic constant currency revenue growth of 5.5% driven by strong subscription revenue growth of 8.7%.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Subscription revenue growth",
+        "value": "8.7%",
+        "context": "Verisk delivered organic constant currency revenue growth of 5.5% driven by strong subscription revenue growth of 8.7%. This growth compounded on top of the solid growth delivered last year.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Transactional revenue decline",
+        "value": "8.8%",
+        "context": "In the quarter, we experienced an exceptionally low level of severe weather, resulting in a decline in claims assignments across our Xactware system. This and other factors drove transactional revenue declines of 8.8% on an OCC basis.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "OCC adjusted EBITDA growth",
+        "value": "8.8%",
+        "context": "Despite the transactional revenue impact, we delivered 8.8% OCC adjusted EBITDA growth with expanded EBITDA margin of 55.8%.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "EBITDA margin",
+        "value": "55.8%",
+        "context": "Despite the transactional revenue impact, we delivered 8.8% OCC adjusted EBITDA growth with expanded EBITDA margin of 55.8%.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Year-to-date OCC revenue growth",
+        "value": "7.1%",
+        "context": "Looking at our year-to-date performance, we've delivered 7.1% OCC revenue growth, 9.4% OCC adjusted EBITDA growth, and a 56.3% margin, which reflects the underlying strength and resilience of our business, and is fully consistent with our organic guidance for the year.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Year-to-date OCC adjusted EBITDA growth",
+        "value": "9.4%",
+        "context": "Looking at our year-to-date performance, we've delivered 7.1% OCC revenue growth, 9.4% OCC adjusted EBITDA growth, and a 56.3% margin, which reflects the underlying strength and resilience of our business, and is fully consistent with our organic guidance for the year.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Year-to-date margin",
+        "value": "56.3%",
+        "context": "Looking at our year-to-date performance, we've delivered 7.1% OCC revenue growth, 9.4% OCC adjusted EBITDA growth, and a 56.3% margin, which reflects the underlying strength and resilience of our business, and is fully consistent with our organic guidance for the year.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Third quarter revenue",
+        "value": "$768 million",
+        "context": "On a consolidated and GAAP basis, Third quarter revenue was $768 million, up 5.9% versus the prior year, reflecting growth across both underwriting and claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Net income",
+        "value": "$226 million",
+        "context": "Net income was $226 million, a 2.5% increase versus the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Diluted GAAP earnings per share",
+        "value": "$1.61",
+        "context": "While diluted GAAP earnings per share were $1.61, up 5% versus the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "OCC revenue growth",
+        "value": "5.5%",
+        "context": "In the 3rd quarter, OCC revenues grew 5.5%. With growth of 5.8% in underwriting and 5% in claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "OCC underwriting revenue growth",
+        "value": "5.8%",
+        "context": "In the 3rd quarter, OCC revenues grew 5.5%. With growth of 5.8% in underwriting and 5% in claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "OCC claims revenue growth",
+        "value": "5%",
+        "context": "In the 3rd quarter, OCC revenues grew 5.5%. With growth of 5.8% in underwriting and 5% in claims.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Impact of temporary factors on OCC revenue growth",
+        "value": "approximately 1%",
+        "context": "We did experience 2 temporary factors that impacted growth in the quarter. Namely 1st, a historically low level of weather activity. And therefore claims volumes that were significantly lower than our estimate of a typical year. And 2, the reduction in a government contract, which we had spoken to you about previously. Together, those factors combine for an impact of approximately 1% to overall Verisk OCC revenue growth in the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Subscription revenue percentage of total revenue",
+        "value": "84%",
+        "context": "Subscription revenues, which comprise 84% of our total revenue in the quarter, grew 8.7% on an OCC basis, compounding on the 9.1% OCC growth we delivered in the prior year quarter and consistent with growth levels in the first half of the year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Prior year quarter subscription revenue growth",
+        "value": "9.1%",
+        "context": "Subscription revenues, which comprise 84% of our total revenue in the quarter, grew 8.7% on an OCC basis, compounding on the 9.1% OCC growth we delivered in the prior year quarter and consistent with growth levels in the first half of the year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Transactional revenue percentage of total revenue",
+        "value": "16%",
+        "context": "Our transactional revenues, which comprise 16% of total revenues. Declined 8.8% on an OCC basis.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Weather events decline versus last year",
+        "value": "18%",
+        "context": "Weather events in the 3rd quarter as tracked by NOAA. declined 18% versus last year and were 31% below the five-year average.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Weather events below five-year average",
+        "value": "31%",
+        "context": "Weather events in the 3rd quarter as tracked by NOAA. declined 18% versus last year and were 31% below the five-year average.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Third quarter weather event frequency decline",
+        "value": "30%",
+        "context": "According to Verisk's own PCS data, third quarter weather event frequency severity declined 30% and 78% respectively on a year-over-year basis.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Third quarter weather event severity decline",
+        "value": "78%",
+        "context": "According to Verisk's own PCS data, third quarter weather event frequency severity declined 30% and 78% respectively on a year-over-year basis.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Total adjusted EBITDA margin",
+        "value": "55.8%",
+        "context": "total adjusted EBITDA margins, which include both organic and inorganic results were 55.8%, up 60 basis points from the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Margin expansion versus prior year",
+        "value": "60 basis points",
+        "context": "total adjusted EBITDA margins, which include both organic and inorganic results were 55.8%, up 60 basis points from the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Five-year margin expansion",
+        "value": "over 500 basis points",
+        "context": "Over the past 5 years, we have delivered over 500 basis points of margin expansion, while self-funding investments in some large scale transformative technology and product upgrades.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Net interest expense",
+        "value": "$42 million",
+        "context": "net interest expense was $42 million in the 3rd quarter, compared to $32 million in the same period last year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Prior year quarter net interest expense",
+        "value": "$32 million",
+        "context": "net interest expense was $42 million in the 3rd quarter, compared to $32 million in the same period last year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Senior notes issuance",
+        "value": "$1.5 billion",
+        "context": "During the third quarter, we acted opportunistically to take advantage of favorable bond market pricing and issued $1.5 billion in senior notes to finance the announced acquisition of AccuLynx.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Reported effective tax rate",
+        "value": "25.3%",
+        "context": "Our reported effective tax rate was 25.3% compared to 22.9% in the prior year quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Prior year quarter effective tax rate",
+        "value": "22.9%",
+        "context": "Our reported effective tax rate was 25.3% compared to 22.9% in the prior year quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Adjusted net income",
+        "value": "$241 million",
+        "context": "Adjusted net income increased 1% to 241 million and diluted adjusted EPS increased 3% to $1.72 for the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Diluted adjusted EPS",
+        "value": "$1.72",
+        "context": "Adjusted net income increased 1% to 241 million and diluted adjusted EPS increased 3% to $1.72 for the quarter.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "value": "$404 million",
+        "context": "On a reported basis, net cash from operating activities increased 36% to $404 million, while free cash flow rose 40% to $336 million.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Free cash flow",
+        "value": "$336 million",
+        "context": "On a reported basis, net cash from operating activities increased 36% to $404 million, while free cash flow rose 40% to $336 million.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Cash dividend per share",
+        "value": "45 cents",
+        "context": "During the third quarter, we paid a cash dividend of 45 cents per share, a 15% increase from the prior year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Share repurchases",
+        "value": "$100 Million",
+        "context": "Additionally, we repurchased $100 Million of common stock.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Share repurchase authorization capacity",
+        "value": "$1.2Billion",
+        "context": "As of September 30th, we had $1.2Billion in capacity under our share repurchase authorization.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "XactXpert year-to-date sales performance",
+        "value": "more than double original quotas",
+        "context": "As an example, in XactXpert  where we utilize AI to advise claims professionals in estimate review, we now have over 40 clients using the solution, including six of the top 10 carriers. and year-to-date sales performance is now more than double original quotas.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "XactXpert clients",
+        "value": "over 40",
+        "context": "As an example, in XactXpert  where we utilize AI to advise claims professionals in estimate review, we now have over 40 clients using the solution, including six of the top 10 carriers.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Xact AI users",
+        "value": "273 users",
+        "context": "And XactXpert can now be further enhanced by Xact AI, adding Gen AI capabilities like photo tagging through a new solution which launched just this month and already has 273 users, including a top 10 carrier.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "SavvyR state adoption",
+        "value": "about half of our 30 SavvyR states",
+        "context": "we've had very positive reactions to our AI query tools for claim search and SavvyR for regulators, with about half of our 30 SavvyR states signed on, allowing our clients to more easily interrogate our data through natural language interfaces.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "New statistical data contributors in 2025",
+        "value": "10",
+        "context": "we continue to grow the number of contributors to our existing data sets, onboarding 10 new statistical data contributors so far in 2025.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Digital media forensics contributors",
+        "value": "106 contributors",
+        "context": "Specifically, our new digital media forensics currently has 106 contributors, including five of the top 10 carriers, representing over 600 million digital images.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Digital images in digital media forensics",
+        "value": "over 600 million",
+        "context": "Specifically, our new digital media forensics currently has 106 contributors, including five of the top 10 carriers, representing over 600 million digital images.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "metric": "Core Lines Reimagine modules launched in Q3",
+        "value": "3 new modules",
+        "context": "In the 3rd quarter, we launched 3 new modules as the latest demonstration of the increased value we're delivering to clients and the industry.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Planned Core Lines Reimagine releases in 2025",
+        "value": "20",
+        "context": "We remain on track to deliver all 20 planned reimagined releases in 2025. reinforcing our commitment to innovation and execution discipline.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "metric": "Indication Center timing improvement",
+        "value": "2 months sooner",
+        "context": "our new Indication Center delivers key rating elements to our clients 2 months sooner than our traditional loss cost review process.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      }
+    ],
+    "guidance_and_outlook": [
+      {
+        "topic": "2025 consolidated revenue",
+        "verbatim_language": "we expect consolidated revenue to be in the range of 3.05 billion to $3.08 billion.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "2025 adjusted EBITDA",
+        "verbatim_language": "We expect adjusted EBITDA to be in the range of 1.69 to $1.72 billion.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "2025 adjusted EBITDA margins",
+        "verbatim_language": "And adjusted EBITDA margins to remain in the 55 to 55.8% range.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "2025 net interest expense",
+        "verbatim_language": "We now expect net interest expense to be in the range of 165 to $185 million.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "2025 tax rate",
+        "verbatim_language": "From a tax perspective, we are still expecting to be in the range of 23 to 25%.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "2025 diluted adjusted earnings per share",
+        "verbatim_language": "Taken all together, we continue to expect diluted adjusted earnings per share in the range of $6.80 to $7.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "AccuLynx transaction impact on 2025",
+        "verbatim_language": "We do not expect to realize any material financial benefit from the pending transaction in 2025. And have therefore removed any operating results from our 2025 guidance.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "Fourth quarter weather comparison",
+        "verbatim_language": "As we look ahead to the fourth quarter, we remind you that we do have another very tough weather comparison, as last year we saw enough lift in revenue from Hurricane Ian and Milton.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "Long-term organic growth confidence",
+        "verbatim_language": "We view these factors as temporary and continue to have confidence in our ability to deliver results in line with our long-term targets for this year, for 2026, and beyond.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "Tax rate outlook",
+        "verbatim_language": "We continue to believe that our tax rate will fall in the 23 to 25% range for the full year.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      }
+    ],
+    "commitments_and_priorities": [
+      {
+        "commitment": "we remain committed to investing in integrations to deliver value to clients.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "vague"
+      },
+      {
+        "commitment": "We remain on track to deliver all 20 planned reimagined releases in 2025. reinforcing our commitment to innovation and execution discipline.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims",
+        "specificity": "specific"
+      },
+      {
+        "commitment": "We remain committed to returning capital to shareholders.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims",
+        "specificity": "vague"
+      },
+      {
+        "commitment": "we remain very confident in our ability to continue to deliver growth in that six to 8% range on an ongoing basis.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "specific"
+      },
+      {
+        "commitment": "we believe our long-term growth and margin model is enhanced by the integration of AI into our own processes and across the industry overall.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer",
+        "specificity": "vague"
+      }
+    ],
+    "risk_acknowledgments": [
+      {
+        "risk_topic": "Weather variability impact on transactional revenue",
+        "verbatim_language": "In the quarter, we experienced an exceptionally low level of severe weather, resulting in a decline in claims assignments across our Xactware system. This and other factors drove transactional revenue declines of 8.8% on an OCC basis.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "risk_topic": "Government contract reduction",
+        "verbatim_language": "We did experience 2 temporary factors that impacted growth in the quarter. Namely 1st, a historically low level of weather activity. And therefore claims volumes that were significantly lower than our estimate of a typical year. And 2, the reduction in a government contract, which we had spoken to you about previously.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "risk_topic": "Auto business competitive pressures",
+        "verbatim_language": "As discussed last quarter, we continue to see softness in our personal lines auto business relating to competitive pressures.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "risk_topic": "AccuLynx FTC approval delay",
+        "verbatim_language": "FTC approval of the transaction has been delayed. We have received a second request for information, and we continue to have productive engagement with the FTC, working within the conditions of the federal government shutdown. Consequently, we do not expect to realize any material benefit from the pending transaction in 2025 and have removed any operating results from our 2025 guidance.",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "risk_topic": "Tough fourth quarter weather comparison",
+        "verbatim_language": "As we look ahead to the fourth quarter, we remind you that we do have another very tough weather comparison, as last year we saw enough lift in revenue from Hurricane Ian and Milton.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      }
+    ],
+    "pricing_and_demand_commentary": [
+      {
+        "topic": "Forms, Rules, and Lost Costs pricing",
+        "verbatim_language": "Within Forms, Rules, and Lost Costs, we continue to execute on our innovation agenda through the Reimagine program, which is driving solid price realization in the renewal process across all client tiers.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "Anti-fraud pricing",
+        "verbatim_language": "Within our anti-fraud business, we have continued to achieve strong price realization through enhancement of the solution and the continuation of our ecosystem strategy.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "Carrier rate adequacy improvement",
+        "verbatim_language": "In addition, we are experiencing tougher comparisons on certain non-rate action deals as carriers have been more successful achieving greater rate adequacy.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "Client demand for data integration",
+        "verbatim_language": "What we heard consistently from our clients was, one, that they need more data from us to better integrate across their businesses and functions, and they've demonstrated in new solutions access and surplus that they're willing to increase their data contributions",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      },
+      {
+        "topic": "Client interest in AI enhancements",
+        "verbatim_language": "two, a high interest in the AI enhancements that we've developed using our data sets where they can get immediate benefit without heavy investment",
+        "speaker": "Lee Shavel",
+        "role": "President and Chief Executive Officer"
+      }
+    ],
+    "competitive_commentary": [
+      {
+        "topic": "Extreme event solutions competitive wins",
+        "verbatim_language": "We are also driving double-digit subscription growth in extreme event solutions through the expansion of contracts with existing clients, solid renewals, and the addition of new logos globally, including competitive wins.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      },
+      {
+        "topic": "Auto business competitive pressures",
+        "verbatim_language": "As discussed last quarter, we continue to see softness in our personal lines auto business relating to competitive pressures.",
+        "speaker": "Elizabeth Mann",
+        "role": "Chief Financial Officer and Interim Head of Claims"
+      }
+    ],
+    "management_kpis_emphasized": [
+      "Organic constant currency (OCC) revenue growth",
+      "Subscription revenue growth",
+      "Transactional revenue",
+      "Adjusted EBITDA growth",
+      "Adjusted EBITDA margin",
+      "Free cash flow",
+      "Net cash from operating activities",
+      "Diluted adjusted EPS",
+      "Sales quota attainment",
+      "Pipeline opportunities",
+      "Data contributor growth",
+      "Weather event frequency and severity",
+      "New product adoption (XactXpert, Xact AI, SavvyR)",
+      "Core Lines Reimagine releases",
+      "Price realization"
+    ],
+    "tone_indicators": {
+      "confidence_language": [
+        "We are excited about the growth opportunities ahead and have confidence in delivering on our long-term strategy and driving value creation for shareholders.",
+        "our elevated strategic engagement is leading to more pipeline opportunities, and in fact 2025 is on track to be our strongest sales year yet, with sales teams across Verisk exceeding an ambitious quota for the second straight year.",
+        "our deployed AI applications have been enthusiastically embraced by our clients.",
+        "I can say with confidence that Verisk's content, which includes data, language, analytics, and models, is built upon proprietary data that is not publicly available",
+        "we remain very confident in our ability to continue to deliver growth in that six to 8% range on an ongoing basis.",
+        "we continue to have confidence in our ability to deliver results in line with our long-term targets for this year, for 2026, and beyond.",
+        "the underlying strength and resilience of our business",
+        "This growth compounded on top of the solid growth delivered last year.",
+        "strong subscription revenue growth",
+        "a much improved dialogue on the value that we are delivering",
+        "strong support for the efficiency driving multi-partner integrations",
+        "In every meeting, the conclusion is that there is more opportunity for us to work together."
+      ],
+      "caution_language": [
+        "We view these factors as temporary",
+        "FTC approval of the transaction has been delayed.",
+        "we do not expect to realize any material benefit from the pending transaction in 2025",
+        "we remind you that we do have another very tough weather comparison",
+        "we continue to see softness in our personal lines auto business relating to competitive pressures.",
+        "we are experiencing tougher comparisons on certain non-rate action deals",
+        "there's always going to be some quarterly variability"
+      ],
+      "deflection_or_reframing": [
+        "Despite the transactional revenue impact, we delivered 8.8% OCC adjusted EBITDA growth with expanded EBITDA margin of 55.8%.",
+        "Beneath the near-term light-weather impacts reflected in our current quarter's results is clear and unmistakable evidence that our strategic engagement initiatives, enhanced go-to-market strategy, and product invention, including AI, are enhancing the value of our data and expanding our growth opportunities.",
+        "The clearest demonstration of the health of our business is the growth of our subscription revenues.",
+        "I think when we are talking about softer or hard markets, that really is going to play out in the subscription growth from a value perspective, whereas clearly within this quarter, you know, that differentiation, that six and a half, is primarily transactionally driven."
+      ]
+    }
+  },
+  "qanda": {
+    "source": "Q&A",
+    "exchanges": [],
+    "financial_metrics_cited_in_qa": [],
+    "new_information_revealed": [],
+    "guidance_clarifications": [],
+    "pricing_and_demand_commentary": [],
+    "evasion_and_deflection_instances": [],
+    "tone_indicators": {
+      "defensive_responses": [],
+      "candid_acknowledgments": [],
+      "enthusiasm_or_confidence": []
+    },
+    "qa_summary_stats": {
+      "total_analyst_questioners": 0,
+      "total_exchanges": 0,
+      "questions_answered_directly": 0,
+      "questions_answered_partially": 0,
+      "questions_evaded": 0,
+      "questions_deferred": 0
+    }
+  }
+}
